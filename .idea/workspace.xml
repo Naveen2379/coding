@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbV4qLh1gmhNUXFPwb3lIEuw1m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tdd" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/__tests__" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.returns Mumba&#10;Mumba for 2 6 10">
+    <configuration name="returns 2 6 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-names>
+        <test-name value="returns 2 6 10" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="returns Mumba for 1 2" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-names>
+        <test-name value="returns Mumba for 1 2" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="returns Mumba&#10;Mumba for 2 6 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-names>
+        <test-name value="returns Mumba&#10;Mumba for 2 6 10" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="returns Zumba for 1 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-names>
+        <test-name value="returns Zumba for 1 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="returns Zumba&#10;Mumba for 2 3 8" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-names>
+        <test-name value="returns Zumba&#10;Mumba for 2 3 8" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.returns Mumba&#10;Mumba for 2 6 10" />
+        <item itemvalue="Jest.returns Zumba&#10;Mumba for 2 3 8" />
+        <item itemvalue="Jest.returns 2 6 10" />
+        <item itemvalue="Jest.returns Mumba for 1 2" />
+        <item itemvalue="Jest.returns Zumba for 1 3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="" />
+      <created>1581314596846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581314596846</updated>
+      <workItem from="1581314613287" duration="872000" />
+      <workItem from="1581470335789" duration="5492000" />
+      <workItem from="1581529337469" duration="1628000" />
+      <workItem from="1581558168872" duration="5511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581562181479">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581562181479" />
+    <state x="1086" y="385" key="#xdebugger.evaluate" timestamp="1581559642395">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1086" y="385" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1581559642395" />
+    <state width="419" height="568" key="DebuggerActiveHint" timestamp="1581561708217">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="419" height="568" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1581561708217" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581559072816">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581559072816" />
+    <state width="1807" height="377" key="GridCell.Tab.0.bottom" timestamp="1581563097779">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="377" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097779" />
+    <state width="1807" height="377" key="GridCell.Tab.0.center" timestamp="1581563097777">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="377" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097777" />
+    <state width="1807" height="377" key="GridCell.Tab.0.left" timestamp="1581563097777">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="377" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097777" />
+    <state width="1807" height="377" key="GridCell.Tab.0.right" timestamp="1581563097778">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="377" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097778" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581561788164">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581561788163">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788163" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581561788163">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788163" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581561788164">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1581561788165">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788165" />
+    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1581561788164">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
+    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1581561788164">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
+    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1581561788165">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788165" />
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1581561788166">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788166" />
+    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1581561788166">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788166" />
+    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1581561788165">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788165" />
+    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1581561788166">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788166" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581558182257">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581558182257" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/MinNumberFromArray.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/MinNumberFromArray.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/MinNumberFromArray.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/MinNumberFromArray.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
