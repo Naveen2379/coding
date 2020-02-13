@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="" />
+    <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinNumberFromArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectionSort.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XbV4qLh1gmhNUXFPwb3lIEuw1m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +41,7 @@
       <recent name="$PROJECT_DIR$/src/__tests__" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.returns Mumba&#10;Mumba for 2 6 10">
+  <component name="RunManager" selected="Node.js.InsertionSort.js">
     <configuration name="returns 2 6 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -44,19 +52,6 @@
       <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
       <test-names>
         <test-name value="returns 2 6 10" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="returns Mumba for 1 2" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
-      <test-names>
-        <test-name value="returns Mumba for 1 2" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -73,19 +68,6 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="returns Zumba for 1 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
-      <test-names>
-        <test-name value="returns Zumba for 1 3" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <configuration name="returns Zumba&#10;Mumba for 2 3 8" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -99,13 +81,19 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="InsertionSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/InsertionSort.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectionSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/SelectionSort.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.InsertionSort.js" />
+        <item itemvalue="Node.js.SelectionSort.js" />
         <item itemvalue="Jest.returns Mumba&#10;Mumba for 2 6 10" />
         <item itemvalue="Jest.returns Zumba&#10;Mumba for 2 3 8" />
         <item itemvalue="Jest.returns 2 6 10" />
-        <item itemvalue="Jest.returns Mumba for 1 2" />
-        <item itemvalue="Jest.returns Zumba for 1 3" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +110,9 @@
       <workItem from="1581314613287" duration="872000" />
       <workItem from="1581470335789" duration="5492000" />
       <workItem from="1581529337469" duration="1628000" />
-      <workItem from="1581558168872" duration="5511000" />
+      <workItem from="1581558168872" duration="5792000" />
+      <workItem from="1581572338115" duration="524000" />
+      <workItem from="1581578226729" duration="3213000" />
     </task>
     <servers />
   </component>
@@ -146,74 +136,74 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581559072816" />
-    <state width="1807" height="377" key="GridCell.Tab.0.bottom" timestamp="1581563097779">
+    <state width="1807" height="445" key="GridCell.Tab.0.bottom" timestamp="1581603013989">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="377" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097779" />
-    <state width="1807" height="377" key="GridCell.Tab.0.center" timestamp="1581563097777">
+    <state width="1807" height="445" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013989" />
+    <state width="1807" height="445" key="GridCell.Tab.0.center" timestamp="1581603013989">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="377" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097777" />
-    <state width="1807" height="377" key="GridCell.Tab.0.left" timestamp="1581563097777">
+    <state width="1807" height="445" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013989" />
+    <state width="1807" height="445" key="GridCell.Tab.0.left" timestamp="1581603013988">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="377" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097777" />
-    <state width="1807" height="377" key="GridCell.Tab.0.right" timestamp="1581563097778">
+    <state width="1807" height="445" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013988" />
+    <state width="1807" height="445" key="GridCell.Tab.0.right" timestamp="1581603013989">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="377" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581563097778" />
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581561788164">
+    <state width="1807" height="445" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013989" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581564219065">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
-    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581561788163">
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581564219065">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788163" />
-    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581561788163">
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581564219065">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788163" />
-    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581561788164">
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581564219065">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1581561788165">
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1581564219066">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788165" />
-    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1581561788164">
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
+    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1581564219065">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
-    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1581561788164">
+    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1581564219065">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788164" />
-    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1581561788165">
+    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1581564219066">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788165" />
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1581561788166">
+    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1581564219066">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788166" />
-    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1581561788166">
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
+    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1581564219066">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788166" />
-    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1581561788165">
+    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
+    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1581564219066">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788165" />
-    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1581561788166">
+    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
+    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1581564219066">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581561788166" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581558182257">
+    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581578232613">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581558182257" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581578232613" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,19 +266,16 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
           <line>14</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
           <line>2</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
           <line>4</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
