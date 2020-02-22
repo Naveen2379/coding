@@ -9,4 +9,5 @@ function testOfExistence(input) {
     }
     return res;
 }
+
 module.exports = testOfExistence;

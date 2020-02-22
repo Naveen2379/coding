@@ -1,4 +1,4 @@
-const testOfExistence = require('../HackerRank_CrackTheLogic/TestOfExistence_2');
+const testOfExistence = require('../TestOfExistence');
 
 test('returns NO for ""', () => {
     let input = '';
@@ -24,7 +24,7 @@ test('returns YES for " \ns iet" ', () => {
     expect(result).toBe('YES');
 });
 
-test('returns NO for "t\nthis is a world" ', () => {
+test('returns NO for "d" ', () => {
     let input = 't\nthis is a world';
     const result = testOfExistence(input);
     expect(result).toBe('YES');
