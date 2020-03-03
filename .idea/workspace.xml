@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/SaveTheQueen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Signal_Classification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestCommonDivisor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastKidWhoGetsToy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastKidWithPositionGiven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/LargestDivisor.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/LastKidWhoGetsToy.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinNumberFromArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectionSort.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,68 +39,81 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tdd" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Search_and_Sort" />
       <recent name="$PROJECT_DIR$/src/__tests__" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.InsertionSort.js">
-    <configuration name="returns 2 6 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.Signal_Classification.js">
+    <configuration name="returns 1 for 4-kids 2-toys 4-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
       <test-names>
-        <test-name value="returns 2 6 10" />
+        <test-name value="returns 1 for 4-kids 2-toys 4-position" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="returns Mumba&#10;Mumba for 2 6 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="returns 3 for 4-kids 2-toys 2-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
       <test-names>
-        <test-name value="returns Mumba&#10;Mumba for 2 6 10" />
+        <test-name value="returns 3 for 4-kids 2-toys 2-position" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="returns Zumba&#10;Mumba for 2 3 8" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="returns 4 for 4-kids 2-toys 3-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
       <test-names>
-        <test-name value="returns Zumba&#10;Mumba for 2 3 8" />
+        <test-name value="returns 4 for 4-kids 2-toys 3-position" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="InsertionSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/InsertionSort.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="returns 6 for 6-kids 6-toys 1-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
+      <test-names>
+        <test-name value="returns 6 for 6-kids 6-toys 1-position" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="SelectionSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/SelectionSort.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="Signal_Classification.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Signal_Classification.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.InsertionSort.js" />
-        <item itemvalue="Node.js.SelectionSort.js" />
-        <item itemvalue="Jest.returns Mumba&#10;Mumba for 2 6 10" />
-        <item itemvalue="Jest.returns Zumba&#10;Mumba for 2 3 8" />
-        <item itemvalue="Jest.returns 2 6 10" />
+        <item itemvalue="Node.js.Signal_Classification.js" />
+        <item itemvalue="Jest.returns 3 for 4-kids 2-toys 2-position" />
+        <item itemvalue="Jest.returns 6 for 6-kids 6-toys 1-position" />
+        <item itemvalue="Jest.returns 1 for 4-kids 2-toys 4-position" />
+        <item itemvalue="Jest.returns 4 for 4-kids 2-toys 3-position" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +132,15 @@
       <workItem from="1581529337469" duration="1628000" />
       <workItem from="1581558168872" duration="5792000" />
       <workItem from="1581572338115" duration="524000" />
-      <workItem from="1581578226729" duration="3213000" />
+      <workItem from="1581578226729" duration="3947000" />
+      <workItem from="1581644266968" duration="12918000" />
+      <workItem from="1582169942416" duration="11600000" />
+      <workItem from="1582426906336" duration="2898000" />
+      <workItem from="1582619926594" duration="20564000" />
+      <workItem from="1583206800776" duration="32000" />
+      <workItem from="1583207200570" duration="7000" />
+      <workItem from="1583208098018" duration="68000" />
+      <workItem from="1583209995906" duration="9503000" />
     </task>
     <servers />
   </component>
@@ -124,86 +152,106 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581562181479" />
-    <state x="1086" y="385" key="#xdebugger.evaluate" timestamp="1581559642395">
+    <state x="1086" y="385" key="#xdebugger.evaluate" timestamp="1581823749821">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1086" y="385" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1581559642395" />
+    <state x="1086" y="385" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1581823749821" />
+    <state x="556" y="94" width="865" height="916" key="CommitChangelistDialog2" timestamp="1582869934324">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="556" y="94" width="865" height="916" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582869934324" />
     <state width="419" height="568" key="DebuggerActiveHint" timestamp="1581561708217">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="419" height="568" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1581561708217" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581559072816">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582878345686">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581559072816" />
-    <state width="1807" height="445" key="GridCell.Tab.0.bottom" timestamp="1581603013989">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582878345686" />
+    <state width="1807" height="422" key="GridCell.Tab.0.bottom" timestamp="1583226950963">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="445" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013989" />
-    <state width="1807" height="445" key="GridCell.Tab.0.center" timestamp="1581603013989">
+    <state width="1807" height="422" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950963" />
+    <state width="1807" height="422" key="GridCell.Tab.0.center" timestamp="1583226950956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="445" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013989" />
-    <state width="1807" height="445" key="GridCell.Tab.0.left" timestamp="1581603013988">
+    <state width="1807" height="422" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950956" />
+    <state width="1807" height="422" key="GridCell.Tab.0.left" timestamp="1583226950955">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="445" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013988" />
-    <state width="1807" height="445" key="GridCell.Tab.0.right" timestamp="1581603013989">
+    <state width="1807" height="422" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950955" />
+    <state width="1807" height="422" key="GridCell.Tab.0.right" timestamp="1583226950956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="445" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581603013989" />
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581564219065">
+    <state width="1807" height="422" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950956" />
+    <state width="1807" height="415" key="GridCell.Tab.1.bottom" timestamp="1582962671293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581564219065">
+    <state width="1807" height="415" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671293" />
+    <state width="1807" height="415" key="GridCell.Tab.1.center" timestamp="1582962671292">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581564219065">
+    <state width="1807" height="415" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671292" />
+    <state width="1807" height="415" key="GridCell.Tab.1.left" timestamp="1582962671292">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581564219065">
+    <state width="1807" height="415" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671292" />
+    <state width="1807" height="415" key="GridCell.Tab.1.right" timestamp="1582962671293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1581564219066">
+    <state width="1807" height="415" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671293" />
+    <state width="1807" height="415" key="GridCell.Tab.2.bottom" timestamp="1582962671294">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
-    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1581564219065">
+    <state width="1807" height="415" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671294" />
+    <state width="1807" height="415" key="GridCell.Tab.2.center" timestamp="1582962671293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1581564219065">
+    <state width="1807" height="415" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671293" />
+    <state width="1807" height="415" key="GridCell.Tab.2.left" timestamp="1582962671293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1581564219066">
+    <state width="1807" height="415" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671293" />
+    <state width="1807" height="415" key="GridCell.Tab.2.right" timestamp="1582962671294">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219065" />
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1581564219066">
+    <state width="1807" height="415" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671294" />
+    <state width="1807" height="415" key="GridCell.Tab.3.bottom" timestamp="1582962671295">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
-    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1581564219066">
+    <state width="1807" height="415" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671295" />
+    <state width="1807" height="415" key="GridCell.Tab.3.center" timestamp="1582962671295">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
-    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1581564219066">
+    <state width="1807" height="415" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671295" />
+    <state width="1807" height="415" key="GridCell.Tab.3.left" timestamp="1582962671294">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
-    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1581564219066">
+    <state width="1807" height="415" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671294" />
+    <state width="1807" height="415" key="GridCell.Tab.3.right" timestamp="1582962671295">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581564219066" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581578232613">
+    <state width="1807" height="415" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582962671295" />
+    <state x="830" y="214" width="316" height="677" key="RollbackChangesDialog" timestamp="1582294145407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581578232613" />
+    <state x="830" y="214" width="316" height="677" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582294145407" />
+    <state x="799" y="218" key="SettingsEditor" timestamp="1583211144064">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="799" y="218" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583211144064" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583208098021">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583208098021" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1582625761047">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582625761047" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583222290486">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583222290486" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -277,6 +325,121 @@
           <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
           <line>4</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/TestOfExistence.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/TestOfExistence.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
