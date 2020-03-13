@@ -1,4 +1,4 @@
-const Mumba_Zumba = require('../Mumba_Zumba');
+const Mumba_Zumba = require('../interview/Mumba_Zumba');
 
 test('returns "Mumba" for 1 2', () => {
     const input = '1 2';

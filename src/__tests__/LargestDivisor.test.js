@@ -1,4 +1,4 @@
-const largestCommonDivisor = require('../LargestCommonDivisor');
+const largestCommonDivisor = require('../interview/LargestCommonDivisor');
 
 test('returns 0 for 0,0', () => {
     let n1 = 0;

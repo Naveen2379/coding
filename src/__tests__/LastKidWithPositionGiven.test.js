@@ -1,4 +1,4 @@
-const lastKid = require('../LastKidWithPositionGiven');
+const lastKid = require('../interview/LastKidWithPositionGiven');
 
 test('returns 3 for 5-kids 3-toys 1-position', () => {
     const result = lastKid(5,3,1);

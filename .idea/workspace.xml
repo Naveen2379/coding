@@ -2,16 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/SaveTheQueen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Signal_Classification.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestCommonDivisor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastKidWhoGetsToy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastKidWithPositionGiven.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__tests__/LargestDivisor.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__tests__/LastKidWhoGetsToy.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/FunDeclarationExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/FuncFirstClassObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/PrototypalInheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/RegularArrowThisKeyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/ThisKeyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/VarLet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/anonymousFun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/closures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/positionProperty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/statementBreak.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/statementBreak.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/typeOfArguments.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayDiff_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/ArrayDiff_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial_Recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GemStones.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/GemStones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Signal_Classification.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Signal_Classification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeapSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/HeapSort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeapSort_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/HeapSort_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/HelloWorld.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LargestCommonDivisor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/LargestCommonDivisor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LargestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/LargestNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LastKidWhoGetsToy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/LastKidWhoGetsToy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LastKidWithPositionGiven.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mumba_Zumba.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Mumba_Zumba.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestOfExistence.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/TestOfExistence.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/ArrayDiff_1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/ArrayDiff_1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/Factorial_Recursion.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/Factorial_Recursion.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/GemStones.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/GemStones.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/LargestDivisor.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/LargestDivisor.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/LastKidWhoGetsToy.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/LastKidWhoGetsToy.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/TestOfExistence.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/TestOfExistence.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -36,6 +63,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -47,73 +75,34 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/Search_and_Sort" />
       <recent name="$PROJECT_DIR$/src/__tests__" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Signal_Classification.js">
-    <configuration name="returns 1 for 4-kids 2-toys 4-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
-      <test-names>
-        <test-name value="returns 1 for 4-kids 2-toys 4-position" />
-      </test-names>
+  <component name="RunManager" selected="Node.js.FunDeclarationExpression.js">
+    <configuration name="FunDeclarationExpression.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/FunDeclarationExpression.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="returns 3 for 4-kids 2-toys 2-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
-      <test-names>
-        <test-name value="returns 3 for 4-kids 2-toys 2-position" />
-      </test-names>
+    <configuration name="PrototypalInheritance.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/PrototypalInheritance.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="returns 4 for 4-kids 2-toys 3-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
-      <test-names>
-        <test-name value="returns 4 for 4-kids 2-toys 3-position" />
-      </test-names>
+    <configuration name="RegularArrowThisKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/RegularArrowThisKeyword.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="returns 6 for 6-kids 6-toys 1-position" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" />
-      <test-names>
-        <test-name value="returns 6 for 6-kids 6-toys 1-position" />
-      </test-names>
+    <configuration name="ThisKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/ThisKeyword.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="Signal_Classification.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Signal_Classification.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
+    <configuration name="VarLet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/VarLet.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Signal_Classification.js" />
-        <item itemvalue="Jest.returns 3 for 4-kids 2-toys 2-position" />
-        <item itemvalue="Jest.returns 6 for 6-kids 6-toys 1-position" />
-        <item itemvalue="Jest.returns 1 for 4-kids 2-toys 4-position" />
-        <item itemvalue="Jest.returns 4 for 4-kids 2-toys 3-position" />
+        <item itemvalue="Node.js.FunDeclarationExpression.js" />
+        <item itemvalue="Node.js.PrototypalInheritance.js" />
+        <item itemvalue="Node.js.ThisKeyword.js" />
+        <item itemvalue="Node.js.RegularArrowThisKeyword.js" />
+        <item itemvalue="Node.js.VarLet.js" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +129,11 @@
       <workItem from="1583206800776" duration="32000" />
       <workItem from="1583207200570" duration="7000" />
       <workItem from="1583208098018" duration="68000" />
-      <workItem from="1583209995906" duration="9503000" />
+      <workItem from="1583209995906" duration="9599000" />
+      <workItem from="1583236920346" duration="21000" />
+      <workItem from="1583378393529" duration="13979000" />
+      <workItem from="1583487426319" duration="35000" />
+      <workItem from="1584075369556" duration="16990000" />
     </task>
     <servers />
   </component>
@@ -164,26 +157,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="419" height="568" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1581561708217" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582878345686">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583236938239">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582878345686" />
-    <state width="1807" height="422" key="GridCell.Tab.0.bottom" timestamp="1583226950963">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583236938239" />
+    <state width="1807" height="422" key="GridCell.Tab.0.bottom" timestamp="1584101939024">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="422" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950963" />
-    <state width="1807" height="422" key="GridCell.Tab.0.center" timestamp="1583226950956">
+    <state width="1807" height="422" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584101939024" />
+    <state width="1807" height="422" key="GridCell.Tab.0.center" timestamp="1584101939024">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="422" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950956" />
-    <state width="1807" height="422" key="GridCell.Tab.0.left" timestamp="1583226950955">
+    <state width="1807" height="422" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584101939024" />
+    <state width="1807" height="422" key="GridCell.Tab.0.left" timestamp="1584101939024">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="422" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950955" />
-    <state width="1807" height="422" key="GridCell.Tab.0.right" timestamp="1583226950956">
+    <state width="1807" height="422" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584101939024" />
+    <state width="1807" height="422" key="GridCell.Tab.0.right" timestamp="1584101939024">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="422" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583226950956" />
+    <state width="1807" height="422" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584101939024" />
     <state width="1807" height="415" key="GridCell.Tab.1.bottom" timestamp="1582962671293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -240,10 +233,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="799" y="218" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583211144064" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583208098021">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583236926866">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583208098021" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583236926866" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1582625761047">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -257,37 +250,37 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>19</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>24</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>21</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/ArrayDiff_1.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/ArrayDiff_1.js</url>
           <line>22</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -312,132 +305,132 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/Mumba_Zumba.js</url>
           <line>14</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/Mumba_Zumba.js</url>
           <line>2</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Mumba_Zumba.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/Mumba_Zumba.js</url>
           <line>4</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/GemStones.js</url>
           <line>3</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/GemStones.js</url>
           <line>1</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/GemStones.js</url>
           <line>16</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/GemStones.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/GemStones.js</url>
           <line>4</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/TestOfExistence.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/TestOfExistence.js</url>
           <line>2</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/TestOfExistence.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/TestOfExistence.js</url>
           <line>4</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LargestCommonDivisor.js</url>
           <line>10</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LargestCommonDivisor.js</url>
           <line>7</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LargestCommonDivisor.js</url>
           <line>5</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LargestCommonDivisor.js</url>
           <line>20</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LargestCommonDivisor.js</url>
           <line>21</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LargestCommonDivisor.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LargestCommonDivisor.js</url>
           <line>22</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWhoGetsToy.js</url>
           <line>3</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWhoGetsToy.js</url>
           <line>4</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWhoGetsToy.js</url>
           <line>6</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWhoGetsToy.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWhoGetsToy.js</url>
           <line>7</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>3</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>2</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>6</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>7</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>9</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>5</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/LastKidWithPositionGiven.js</url>
+          <url>file://$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js</url>
           <line>1</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>

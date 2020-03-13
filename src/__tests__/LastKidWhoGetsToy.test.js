@@ -1,4 +1,4 @@
-const lastKidToGetToy = require('../LastKidWhoGetsToy');
+const lastKidToGetToy = require('../interview/LastKidWhoGetsToy');
 
 test('returns 2 for 3-kids 2-toys 1-position', () => {
     const result = lastKidToGetToy(3,2,1);
