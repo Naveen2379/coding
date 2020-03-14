@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interview/Promise_RemoveGarbage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Promises_CleanRoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/passingFuntoFun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/setTimeOut.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/interview/FunDeclarationExpression.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/FunDeclarationExpression.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/RegularArrowThisKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/RegularArrowThisKeyword.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,29 +51,29 @@
       <recent name="$PROJECT_DIR$/src/__tests__" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.FunDeclarationExpression.js">
+  <component name="RunManager" selected="Node.js.Promise_RemoveGarbage.js">
     <configuration name="FunDeclarationExpression.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/FunDeclarationExpression.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="PrototypalInheritance.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/PrototypalInheritance.js" working-dir="$PROJECT_DIR$/src/interview">
+    <configuration name="Promise_RemoveGarbage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Promise_RemoveGarbage.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="RegularArrowThisKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/RegularArrowThisKeyword.js" working-dir="$PROJECT_DIR$/src/interview">
+    <configuration name="Promises_CleanRoom.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Promises_CleanRoom.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="ThisKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/ThisKeyword.js" working-dir="$PROJECT_DIR$/src/interview">
+    <configuration name="passingFuntoFun.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/passingFuntoFun.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="VarLet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/VarLet.js" working-dir="$PROJECT_DIR$/src/interview">
+    <configuration name="setTimeOut.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/setTimeOut.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Promise_RemoveGarbage.js" />
+        <item itemvalue="Node.js.Promises_CleanRoom.js" />
+        <item itemvalue="Node.js.setTimeOut.js" />
+        <item itemvalue="Node.js.passingFuntoFun.js" />
         <item itemvalue="Node.js.FunDeclarationExpression.js" />
-        <item itemvalue="Node.js.PrototypalInheritance.js" />
-        <item itemvalue="Node.js.ThisKeyword.js" />
-        <item itemvalue="Node.js.RegularArrowThisKeyword.js" />
-        <item itemvalue="Node.js.VarLet.js" />
       </list>
     </recent_temporary>
   </component>

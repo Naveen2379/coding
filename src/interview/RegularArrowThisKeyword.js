@@ -29,8 +29,11 @@ let profile = {
             let nameArray = n.split(' ');
             console.log(this.firstName);    //''
             console.log(this.lastName);     //''
+            console.log(this);
             this.firstName = nameArray[0];
             this.lastName = nameArray[1];
+            console.log(this.firstName);    //''
+            console.log(this.lastName);     //''
         };
         splitName(name);
         //console.log('first name: ', firstName); //firstName is not defined  -error
@@ -39,5 +42,6 @@ let profile = {
         console.log('last name: ', this.lastName);      //last name: Daggubati
     }
 };
+console.log('firstName: '+ typeof profile.firstName);  //empty string
 profile.setName('Rana Daggubati');
 console.log('first name: ', profile.firstName); //first name: Rana
