@@ -78,4 +78,91 @@ console.log(typeof undefined);      //undefined
 console.log(typeof null);           //object
 */
 
+//Use of Arrow Functions
+/*const profile = {
+    firstName: '',
+    lastName: '',
+    setName: function (name) {
+        let splitName = function(name) {
+            let splitName = name.split(' ');
+            this.firstName = splitName[0];      //this belongs to the window object because it defined inside a function which is inside another function
+            this.lastName = splitName[1];
+        }
+        splitName(name);
+    }
+}
+profile.setName('Naveen Kairamkonda');
+console.log(profile.firstName);     //prints nothing
+console.log(window.firstName);      //console.log(window.firstName); ReferenceError: window is not defined
+*/
+
+/*
+const profile = {
+    firstName: '',
+    lastName: '',
+    setName: function (name) {
+        let splitName = (name) => {
+            let splitName = name.split(' ');
+            this.firstName = splitName[0];      //this belongs to the profile object because this is defined in an arrow function which doesn't have its own this so this belongs to profile object            this.lastName = splitName[1];
+        }
+        splitName(name);
+    }
+}
+profile.setName('Naveen Kairamkonda');
+console.log(profile.firstName);     //Naveen
+console.log(window.firstName);      //console.log(window.firstName); ReferenceError: window is not defined
+*/
+
+/*
+//Prototypal Inheritance -basically every object has property called 'prototype', where you can add methods and properties to it. when you create other objects from these objects,
+// the newly created object would automatically inherit the property of the parent, but not by including in its own property, but instead it uses from its parent.
+let car = function (model) {
+    this.model = model;
+}
+car.prototype.getModel = function (model) {
+    return this.model;
+}
+
+let toyoto = new car('toyoto');
+console.log(toyoto.getModel());
+let nissan = new car('nissan');
+console.log(nissan.getModel());
+*/
+
+/*
+//function definition and function declaration
+console.log(foo());
+console.log(fun());
+function foo() {console.log('foo')};        //function definition: function and function name
+let fun = function () {console.log('fun')}; //an anonymous function is saved into a variable is function expression
+//foo
+//console.log(fun()); ReferenceError: Cannot access 'fun' before initialization
+*/
+
+//promises -used to handle asynchronous operations -when you make an async call which has to wait for something to happen and then come back and execute some callback function and
+// within that callback fun you might do another ajax call which can wait for another result....on success or failure
+//Benefits of Promises
+// Improves Code Readability, Better handling of asynchronous operations, Better flow of control definition in asynchronous logic, Better Error Handling
+let promise = new Promise(function(resolve, reject) {
+    const x = "geeksforgeeks";
+    const y = "geeksforgeeksss"
+    if(x === y) {
+        resolve();
+    } else {
+        reject();
+    }
+});
+
+promise.
+then(function () {
+    console.log('Success, You are a GEEK');
+}).
+catch(function () {
+    console.log('Some error has occured');
+});
+
+
+
+
+
 

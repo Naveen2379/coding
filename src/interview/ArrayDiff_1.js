@@ -1,5 +1,5 @@
 function ArrayDiff_1(arr1, arr2) {
-    let result = [];
+    /*let result = [];
     console.log(arr1.length);
     console.log(arr2.length);
 
@@ -8,7 +8,25 @@ function ArrayDiff_1(arr1, arr2) {
     }
     else {
         return 'array';
-    }
+    }*/
+
+    /*const arr2_element = arr2.map((element) => {
+        console.log(element);
+        return element
+    });
+    console.log(arr2_element);*/
+
+    arr1.map( (elem1) => {
+        arr2.map( (elem2) => {
+            if(elem1 === elem2) {
+
+            }
+            else {
+                return
+            }
+        })
+    })
+    console.log(res_arr);
 
     /*if(!(arr1.length>0) && !(arr2.length>0) ){
         result = [];
@@ -24,5 +42,6 @@ function ArrayDiff_1(arr1, arr2) {
     }*/
     //return result;
 }
+ArrayDiff_1([2,3,4,5], [2,4]);
 
-module.exports = ArrayDiff_1;
+//module.exports = ArrayDiff_1;

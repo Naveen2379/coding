@@ -3,7 +3,6 @@ function fun(str) {
     let resStr = '';
     for(let i=str.length-1;i>=0;i--) {
         resStr = resStr + str.charAt(i);
-
     }
     console.log(resStr);
     console.log(typeof resStr);
