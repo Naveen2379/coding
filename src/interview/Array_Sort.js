@@ -14,6 +14,7 @@ function Array_Sort(arr) {
         }
     }
     return arr;
+    //sort method
     /*let res_arr = arr.sort();
     return res_arr;*/
 }
