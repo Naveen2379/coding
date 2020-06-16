@@ -20,26 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/BindCallApply.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/bind/Bind_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/bind/Bind_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call/Call_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call/call_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Coding_Interview_Q2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Coding_Interview_Q3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Q1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Q2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/chaining_promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/synchronous.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/Prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_apply_bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/Prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Array_Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Array_Sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Z5X_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Z5X_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/bind/Bind_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/bind/Bind_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call/Call_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Call_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call/call_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object..js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/chaining_promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/chaining_promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/PrototypalInheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/PrototypalInheritance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,34 +70,36 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/call" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/Search_and_Sort" />
       <recent name="$PROJECT_DIR$/src/__tests__" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Chaining_1.js">
-    <configuration name="Call_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/call/Call_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/call">
-      <method v="2" />
-    </configuration>
-    <configuration name="Chaining_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" working-dir="$PROJECT_DIR$/src/interview/EPAM_Questions">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.call_apply_bind.js">
     <configuration name="Math.max.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
-    <configuration name="call_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/call/call_2.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/call">
+    <configuration name="call_apply_bind.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_apply_bind.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind">
       <method v="2" />
     </configuration>
-    <configuration name="js_objects_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+    <configuration name="copy_object..js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object..js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+      <method v="2" />
+    </configuration>
+    <configuration name="object_and_constructor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+      <method v="2" />
+    </configuration>
+    <configuration name="spread_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/spread">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Chaining_1.js" />
-        <item itemvalue="Node.js.call_2.js" />
+        <item itemvalue="Node.js.call_apply_bind.js" />
+        <item itemvalue="Node.js.spread_1.js" />
+        <item itemvalue="Node.js.copy_object..js" />
         <item itemvalue="Node.js.Math.max.js" />
-        <item itemvalue="Node.js.js_objects_1.js" />
-        <item itemvalue="Node.js.Call_1.js" />
+        <item itemvalue="Node.js.object_and_constructor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +142,8 @@
       <workItem from="1591413256647" duration="3871000" />
       <workItem from="1591417349446" duration="276000" />
       <workItem from="1591608876539" duration="22762000" />
-      <workItem from="1592117098386" duration="22521000" />
+      <workItem from="1592117098386" duration="23493000" />
+      <workItem from="1592286127044" duration="13170000" />
     </task>
     <servers />
   </component>
@@ -171,26 +167,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591785839041">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592305237019">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1591785839041" />
-    <state width="1807" height="380" key="GridCell.Tab.0.bottom" timestamp="1592253506164">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1592305237019" />
+    <state width="1807" height="380" key="GridCell.Tab.0.bottom" timestamp="1592300422449">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592253506164" />
-    <state width="1807" height="380" key="GridCell.Tab.0.center" timestamp="1592253506164">
+    <state width="1807" height="380" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
+    <state width="1807" height="380" key="GridCell.Tab.0.center" timestamp="1592300422449">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592253506164" />
-    <state width="1807" height="380" key="GridCell.Tab.0.left" timestamp="1592253506163">
+    <state width="1807" height="380" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
+    <state width="1807" height="380" key="GridCell.Tab.0.left" timestamp="1592300422449">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592253506163" />
-    <state width="1807" height="380" key="GridCell.Tab.0.right" timestamp="1592253506164">
+    <state width="1807" height="380" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
+    <state width="1807" height="380" key="GridCell.Tab.0.right" timestamp="1592300422449">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592253506164" />
+    <state width="1807" height="380" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
