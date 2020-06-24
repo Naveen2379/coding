@@ -20,19 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_apply_bind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/Prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Peppo/FirstNonRepeatingCharacter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Questions_guru99/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/async-await/AsyncAwaitSetTimeOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/object_method.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/bind/Bind_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/bind/Bind_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call/Call_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Call_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call/call_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object..js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/chaining_promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/chaining_promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/PrototypalInheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/PrototypalInheritance.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,36 +63,36 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/interview" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/call" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/Search_and_Sort" />
-      <recent name="$PROJECT_DIR$/src/__tests__" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.call_apply_bind.js">
-    <configuration name="Math.max.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Math.max.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
+  <component name="RunManager" selected="Node.js.FirstNonRepeatingCharacter.js">
+    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Questions_guru99/1.js" working-dir="$PROJECT_DIR$/src/interview/Questions_guru99">
       <method v="2" />
     </configuration>
-    <configuration name="call_apply_bind.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_apply_bind.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind">
+    <configuration name="AsyncAwaitSetTimeOut.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/async-await/AsyncAwaitSetTimeOut.js" working-dir="$PROJECT_DIR$/src/interview/async-await">
       <method v="2" />
     </configuration>
-    <configuration name="copy_object..js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object..js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+    <configuration name="FirstNonRepeatingCharacter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Peppo/FirstNonRepeatingCharacter.js" working-dir="$PROJECT_DIR$/src/interview/Peppo">
       <method v="2" />
     </configuration>
-    <configuration name="object_and_constructor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+    <configuration name="Promise_Then.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" working-dir="$PROJECT_DIR$/src/interview/async-await">
       <method v="2" />
     </configuration>
-    <configuration name="spread_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/spread">
+    <configuration name="object_method.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/object_method.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.call_apply_bind.js" />
-        <item itemvalue="Node.js.spread_1.js" />
-        <item itemvalue="Node.js.copy_object..js" />
-        <item itemvalue="Node.js.Math.max.js" />
-        <item itemvalue="Node.js.object_and_constructor.js" />
+        <item itemvalue="Node.js.FirstNonRepeatingCharacter.js" />
+        <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.Promise_Then.js" />
+        <item itemvalue="Node.js.AsyncAwaitSetTimeOut.js" />
+        <item itemvalue="Node.js.object_method.js" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +136,15 @@
       <workItem from="1591417349446" duration="276000" />
       <workItem from="1591608876539" duration="22762000" />
       <workItem from="1592117098386" duration="23493000" />
-      <workItem from="1592286127044" duration="13170000" />
+      <workItem from="1592286127044" duration="14636000" />
+      <workItem from="1592320997073" duration="599000" />
+      <workItem from="1592323013847" duration="195000" />
+      <workItem from="1592462362759" duration="2602000" />
+      <workItem from="1592543917263" duration="872000" />
+      <workItem from="1592662885206" duration="596000" />
+      <workItem from="1592766104380" duration="30000" />
+      <workItem from="1592899029651" duration="8598000" />
+      <workItem from="1592978924473" duration="1209000" />
     </task>
     <servers />
   </component>
@@ -167,26 +168,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592305237019">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592766134594">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1592305237019" />
-    <state width="1807" height="380" key="GridCell.Tab.0.bottom" timestamp="1592300422449">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1592766134594" />
+    <state width="1807" height="380" key="GridCell.Tab.0.bottom" timestamp="1592939823875">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
-    <state width="1807" height="380" key="GridCell.Tab.0.center" timestamp="1592300422449">
+    <state width="1807" height="380" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592939823875" />
+    <state width="1807" height="380" key="GridCell.Tab.0.center" timestamp="1592939823874">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
-    <state width="1807" height="380" key="GridCell.Tab.0.left" timestamp="1592300422449">
+    <state width="1807" height="380" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592939823874" />
+    <state width="1807" height="380" key="GridCell.Tab.0.left" timestamp="1592939823874">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
-    <state width="1807" height="380" key="GridCell.Tab.0.right" timestamp="1592300422449">
+    <state width="1807" height="380" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592939823874" />
+    <state width="1807" height="380" key="GridCell.Tab.0.right" timestamp="1592939823874">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="380" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592300422449" />
+    <state width="1807" height="380" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592939823874" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
