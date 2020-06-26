@@ -8,7 +8,9 @@ function fun() {
     });
 
     console.log(pairs.reduce((acc, e) => {
+        //console.log(e);
         if (e) {
+            console.log(e);
             acc = acc + parseInt(e / 2);
         }
         return acc;

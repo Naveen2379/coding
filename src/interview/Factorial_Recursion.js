@@ -13,6 +13,6 @@ function factorial(n) {
     return result;
 }
 
-factorial(5);
+factorial(0);
 
 module.exports = factorial;

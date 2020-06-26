@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Sock_Merchant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Number_Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Counting_Valleys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Sock_Merchant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Sock_Merchant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,40 +62,40 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit" />
       <recent name="$PROJECT_DIR$/src/interview" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/call" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/" />
       <recent name="$PROJECT_DIR$/src/test" />
-      <recent name="$PROJECT_DIR$/src/Search_and_Sort" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Sock_Merchant.js">
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Questions_guru99/1.js" working-dir="$PROJECT_DIR$/src/interview/Questions_guru99">
+  <component name="RunManager" selected="Node.js.Making_Anagrams.js">
+    <configuration name="Counting_Valleys.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Counting_Valleys.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
       <method v="2" />
     </configuration>
-    <configuration name="AsyncAwaitSetTimeOut.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/async-await/AsyncAwaitSetTimeOut.js" working-dir="$PROJECT_DIR$/src/interview/async-await">
+    <configuration name="Factorial_Recursion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" working-dir="$PROJECT_DIR$/src/interview">
       <method v="2" />
     </configuration>
-    <configuration name="FirstNonRepeatingCharacter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Peppo/FirstNonRepeatingCharacter.js" working-dir="$PROJECT_DIR$/src/interview/Peppo">
+    <configuration name="Making_Anagrams.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
       <method v="2" />
     </configuration>
-    <configuration name="Promise_Then.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" working-dir="$PROJECT_DIR$/src/interview/async-await">
+    <configuration name="Number_Test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Number_Test.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
       <method v="2" />
     </configuration>
-    <configuration name="Sock_Merchant.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Sock_Merchant.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
+    <configuration name="Sock_Merchant.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Sock_Merchant.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Making_Anagrams.js" />
+        <item itemvalue="Node.js.Factorial_Recursion.js" />
+        <item itemvalue="Node.js.Counting_Valleys.js" />
+        <item itemvalue="Node.js.Number_Test.js" />
         <item itemvalue="Node.js.Sock_Merchant.js" />
-        <item itemvalue="Node.js.FirstNonRepeatingCharacter.js" />
-        <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Node.js.Promise_Then.js" />
-        <item itemvalue="Node.js.AsyncAwaitSetTimeOut.js" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,9 @@
       <workItem from="1592766104380" duration="30000" />
       <workItem from="1592899029651" duration="8598000" />
       <workItem from="1592978924473" duration="1530000" />
-      <workItem from="1593097000835" duration="874000" />
+      <workItem from="1593097000835" duration="3280000" />
+      <workItem from="1593148856101" duration="30000" />
+      <workItem from="1593182554159" duration="5965000" />
     </task>
     <servers />
   </component>
@@ -168,26 +174,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592980898738">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593148886025">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1592980898738" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1593097866319">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593148886025" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1593203500225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593097866319" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1593097866319">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500225" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1593203500225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593097866319" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1593097866318">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500225" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1593203500224">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593097866318" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1593097866319">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500224" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1593203500225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593097866319" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500225" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
