@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Number_Test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Counting_Valleys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/AlternatingCharacters.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Sock_Merchant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Sock_Merchant.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travelwebsite-server" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -150,7 +147,14 @@
       <workItem from="1592978924473" duration="1530000" />
       <workItem from="1593097000835" duration="3280000" />
       <workItem from="1593148856101" duration="30000" />
-      <workItem from="1593182554159" duration="5965000" />
+      <workItem from="1593182554159" duration="6052000" />
+      <workItem from="1593239226192" duration="80000" />
+      <workItem from="1593365379500" duration="4187000" />
+      <workItem from="1593407509233" duration="30000" />
+      <workItem from="1593537712650" duration="605000" />
+      <workItem from="1593585063805" duration="395000" />
+      <workItem from="1593634952879" duration="675000" />
+      <workItem from="1593677424212" duration="369000" />
     </task>
     <servers />
   </component>
@@ -174,26 +178,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593148886025">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593677791067">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593148886025" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1593203500225">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593677791067" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1593406765752">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500225" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1593203500225">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765752" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1593406765752">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500225" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1593203500224">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765752" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1593406765751">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500224" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1593203500225">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765751" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1593406765752">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593203500225" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765752" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
