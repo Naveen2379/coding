@@ -3,10 +3,13 @@
 * */
 
 const promiseA = new Promise( (resolutionFunc,rejectionFunc) => {
-    resolutionFunc(777);
+    /*resolutionFunc(777);*/
+    rejectionFunc();
 });
 // At this point, "promiseA" is already settled.
-promiseA.then( (val) => console.log("asynchronous logging has val:",val) );
+promiseA
+    .then( (val) => console.log("asynchronous logging has val:",val) )
+    .catch((err) => console.log('error: ', err))
 console.log("immediate logging");
 
 // produces output in this order:

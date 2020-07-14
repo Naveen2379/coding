@@ -20,9 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/AlternatingCharacters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Return_Only_Numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arr_Obj_ReadOnly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_2_Class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/AsyncAwait.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Synchronous.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Flat_FlatMap/Q_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions/Function_Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions/implementing_Map.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Number_Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/PrototypalInheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/PrototypalInheritance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/Prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/Prototype.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,46 +72,46 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travelwebsite-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait" />
       <recent name="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit" />
       <recent name="$PROJECT_DIR$/src/interview" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/call" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/" />
-      <recent name="$PROJECT_DIR$/src/test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Making_Anagrams.js">
-    <configuration name="Counting_Valleys.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Counting_Valleys.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
+  <component name="RunManager" selected="Node.js.AsyncAwait.js">
+    <configuration name="AsyncAwait.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/AsyncAwait.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="Factorial_Recursion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" working-dir="$PROJECT_DIR$/src/interview">
+    <configuration name="Callback.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Callback.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="Making_Anagrams.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Making_Anagrams.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
+    <configuration name="Execution_Context_Synchronous.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Synchronous.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="Number_Test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Number_Test.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
+    <configuration name="Promises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Promises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="Sock_Merchant.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Sock_Merchant.js" working-dir="$PROJECT_DIR$/src/HackerRank_CrackTheLogic">
+    <configuration name="implementing_Map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions/implementing_Map.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Making_Anagrams.js" />
-        <item itemvalue="Node.js.Factorial_Recursion.js" />
-        <item itemvalue="Node.js.Counting_Valleys.js" />
-        <item itemvalue="Node.js.Number_Test.js" />
-        <item itemvalue="Node.js.Sock_Merchant.js" />
+        <item itemvalue="Node.js.AsyncAwait.js" />
+        <item itemvalue="Node.js.implementing_Map.js" />
+        <item itemvalue="Node.js.Promises.js" />
+        <item itemvalue="Node.js.Callback.js" />
+        <item itemvalue="Node.js.Execution_Context_Synchronous.js" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +174,15 @@
       <workItem from="1593585063805" duration="395000" />
       <workItem from="1593634952879" duration="675000" />
       <workItem from="1593677424212" duration="369000" />
+      <workItem from="1593726018645" duration="87000" />
+      <workItem from="1593761325884" duration="608000" />
+      <workItem from="1593898629832" duration="602000" />
+      <workItem from="1593939581862" duration="181000" />
+      <workItem from="1594137221760" duration="541000" />
+      <workItem from="1594281004629" duration="8094000" />
+      <workItem from="1594448461123" duration="4985000" />
+      <workItem from="1594625272786" duration="19000" />
+      <workItem from="1594656530414" duration="13603000" />
     </task>
     <servers />
   </component>
@@ -178,26 +206,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593677791067">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594625295169">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593677791067" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1593406765752">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1594625295169" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1594723596883">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765752" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1593406765752">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596883" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1594723596883">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765752" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1593406765751">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596883" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1594723596882">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765751" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1593406765752">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596882" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1594723596883">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593406765752" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596883" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -250,10 +278,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="799" y="218" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1591182860091" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585546868370">
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1594384638235">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585546868370" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1594384638235" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

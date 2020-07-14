@@ -4,7 +4,7 @@
 * prototype is used to add new properties or methods to object constructors
 * */
 
-function Person(first, last, age, native) {     //in a constructor function 'this' doesn't have a value
+function Person(first, last, age, native) {     //in a constructor function, 'this' doesn't have a value
     this.firstName = first;     //'this' is a substitute for the new object when that new object is created, here it is 'father'    ---> father.firstName
     this.lastName = last;
     this.age = age;
