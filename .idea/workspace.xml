@@ -20,28 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Return_Only_Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arr_Obj_ReadOnly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_2_Class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/AsyncAwait.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Callback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Asynchronous_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Synchronous.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Promises.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Flat_FlatMap/Q_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions/Function_Object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions/implementing_Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Primitive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/arrObj_MutableImmutableTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/kindsOfFunctions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank_CrackTheLogic/Number_Test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/PrototypalInheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/PrototypalInheritance.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/Prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/Prototype.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Q2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/EPAM_Questions/Q2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Questions_guru99/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Questions_guru99/1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,29 +74,29 @@
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.AsyncAwait.js">
-    <configuration name="AsyncAwait.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/AsyncAwait.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
+  <component name="RunManager" selected="Node.js.Primitive.js">
+    <configuration name="Mutable_Immutable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
-    <configuration name="Callback.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Callback.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
+    <configuration name="Primitive.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Primitive.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
-    <configuration name="Execution_Context_Synchronous.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Execution_Context_Synchronous.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
+    <configuration name="Q2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/EPAM_Questions/Q2.js" working-dir="$PROJECT_DIR$/src/interview/EPAM_Questions">
       <method v="2" />
     </configuration>
-    <configuration name="Promises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Promises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait">
+    <configuration name="arrObj_MutableImmutableTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/arrObj_MutableImmutableTest.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
-    <configuration name="implementing_Map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions/implementing_Map.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Higher_Order_Functions">
+    <configuration name="kindsOfFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/kindsOfFunctions.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.AsyncAwait.js" />
-        <item itemvalue="Node.js.implementing_Map.js" />
-        <item itemvalue="Node.js.Promises.js" />
-        <item itemvalue="Node.js.Callback.js" />
-        <item itemvalue="Node.js.Execution_Context_Synchronous.js" />
+        <item itemvalue="Node.js.Primitive.js" />
+        <item itemvalue="Node.js.Mutable_Immutable.js" />
+        <item itemvalue="Node.js.arrObj_MutableImmutableTest.js" />
+        <item itemvalue="Node.js.Q2.js" />
+        <item itemvalue="Node.js.kindsOfFunctions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +167,8 @@
       <workItem from="1594281004629" duration="8094000" />
       <workItem from="1594448461123" duration="4985000" />
       <workItem from="1594625272786" duration="19000" />
-      <workItem from="1594656530414" duration="13603000" />
+      <workItem from="1594656530414" duration="14508000" />
+      <workItem from="1594840063479" duration="4230000" />
     </task>
     <servers />
   </component>
@@ -210,22 +196,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1594625295169" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1594723596883">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1594844642892">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596883" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1594723596883">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1594844642892" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1594844642891">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596883" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1594723596882">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1594844642891" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1594844642891">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596882" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1594723596883">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1594844642891" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1594844642891">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1594723596883" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1594844642891" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

@@ -56,9 +56,22 @@ Previously created memory space is now available for garbage collection.
 
 function foo(x) {
     x = 'new string';
+    return x;
 }
 let x = 'string';
-foo(x);
+console.log(foo(x));
 console.log(x);
 
+// Using a string method doesn't mutate the string
+let str = 'Naveen';
+str.toUpperCase();
+console.log(str);       //Naveen    - Using a string method doesn't mutate the string
 
+str = str.toUpperCase();
+// Assignment gives the primitive a new (not a mutated) value
+console.log(str);       //NAVEEN
+
+// Using an array method mutates the array
+let arr = [];
+arr.push('foo');
+console.log(arr);       //[ 'foo' ]

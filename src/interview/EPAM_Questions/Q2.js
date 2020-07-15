@@ -37,6 +37,6 @@ function alter1(a,b,c) {
 }
 alter1(a,b,c);
 console.log(a);     //2
-console.log(b);   //naveen       -we have passed 'b' as a parameter, so function gets a copy of b in its own scope and prints the initially assigned 'naveen'.
-console.log(c.a);     //10
+console.log(b);   //naveen       -we have passed 'b' as a parameter, so function gets a copy of b in its own scope and prints the initially assigned 'naveen' outside that function scope.
+console.log(c.a);     //10  -as objects are mutable, can be altered anywhere
 
