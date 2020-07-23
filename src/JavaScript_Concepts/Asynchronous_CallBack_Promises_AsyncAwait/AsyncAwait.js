@@ -43,6 +43,7 @@ after promise
 async function asyncFunWithAwait1() {
     console.log('before promise');
     let promise = new Promise( (resolve, reject) => {
+        console.log('promise call starts');
         setTimeout( () => {
             resolve('Promise returned after 2 seconds');
         }, 2000);
