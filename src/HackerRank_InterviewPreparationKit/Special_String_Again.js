@@ -1,4 +1,4 @@
-
+/*
 'use strict';
 
 const fs = require('fs');
@@ -23,48 +23,35 @@ process.stdin.on('end', function() {
 
 function readLine() {
     return inputString[currentLine++];
-}
+}*/
 
 // Complete the substrCount function below.
 function substrCount(n, s) {
-    let subStrArr = [];
-    let subStr = s.charAt(0);
-    let result = n;
-    for(let i=0;i<n-1;i++) {
-        if(s.charAt(i) !== s.charAt(i+1)) {
-            subStr = subStr+s.charAt(i+1);
-            if(subStr.length>2) {
-                if(subStr.charAt(i-1) === subStr.charAt(i+1)) {
-                    subStrArr.push(subStr.slice(i-1));
-                }
-            }
+    let subStr = '';
+    let count = 0;
+    for (let i=0;i<s.length; i++) {
+        subStr = subStr + s.charAt(i);
+        if (subStr[i] === subStr[i-1]) {
+            count++;
         }
-        else {
-            subStr = subStr+s.charAt(i+1);
-            subStrArr.push(subStr);
-            /*else if(subStr.length>=2) {
-                console.log('equal > 2');
-                if(subStr.charAt(i-1)=== subStr.charAt(i+1)) {
-                    console.log(subStr.slice(i-1));
-                    subStrArr.push(subStr.slice(i-1));
-                }
-                if(subStr.length-1) {
-                    subStrArr.push(subStr);
-                }
-                console.log(subStrArr);
-
+        if(subStr.length>=2) {
+            if(subStr[i-2] === subStr[i]) {
+                count++;
             }
-            else {
-                subStrArr.push(subStr);
-            }*/
         }
     }
-    console.log(subStrArr);
-    result = result + subStrArr.length;
-    console.log(subStrArr.length);
+    const reverseEqual = s.split('').reverse().join('');
+    if(s===reverseEqual) { count++};
+    console.log(count + s.length);
 }
 
-function main() {
+substrCount(4, 'aaaa');         //10
+substrCount(7, 'abcbaba');      //10
+substrCount(5, 'asasd');      //7
+substrCount(7, 'aaaaaaa');      //19
+
+
+/*function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
     const n = parseInt(readLine(), 10);
@@ -76,4 +63,4 @@ function main() {
     ws.write(result + '\n');
 
     ws.end();
-}
+}*/
