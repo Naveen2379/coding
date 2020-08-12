@@ -1,5 +1,4 @@
-/*
-'use strict';
+/*'use strict';
 
 const fs = require('fs');
 
@@ -27,24 +26,16 @@ function readLine() {
 
 // Complete the substrCount function below.
 function substrCount(n, s) {
-    let subStr = '';
+    let final_count = 0;
     let count = 0;
-    for (let i=0;i<s.length; i++) {
-        subStr = subStr + s.charAt(i);
-        if (subStr[i] === subStr[i-1]) {
-            count++;
-        }
-        if(subStr.length>=2) {
-            if(subStr[i-2] === subStr[i]) {
-                count++;
-            }
-        }
+    let reverseStr = '';
+    if(reverseStr === s) {
+        count = ((s.length)*(s.length+1))/2;
+        final_count = count;
     }
-    const reverseEqual = s.split('').reverse().join('');
-    if(s===reverseEqual) { count++};
-    console.log(count + s.length);
 }
 
+substrCount(3, 'aaa');          //7     -Wrong Ans, should be 6
 substrCount(4, 'aaaa');         //10
 substrCount(7, 'abcbaba');      //10
 substrCount(5, 'asasd');      //7
