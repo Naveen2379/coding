@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Jumping_0n_The_Clouds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Repeated_String.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Repeated_String_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Assign.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/prototypal_inheritance/" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Jumping_0n_The_Clouds.js">
+  <component name="RunManager" selected="Node.js.Repeated_String_2.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -81,28 +83,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallbackFun.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/CallbackFun.js" working-dir="$PROJECT_DIR$/src/Logical">
-      <method v="2" />
-    </configuration>
     <configuration name="Jumping_0n_The_Clouds.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Jumping_0n_The_Clouds.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
       <method v="2" />
     </configuration>
-    <configuration name="Q7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/eGain_Assessment/Q7.js" working-dir="$PROJECT_DIR$/src/eGain_Assessment">
+    <configuration name="Object_Assign.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Assign.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+      <method v="2" />
+    </configuration>
+    <configuration name="Repeated_String_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Repeated_String_2.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
+      <method v="2" />
+    </configuration>
+    <configuration name="Repeated_String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Repeated_String.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
       <method v="2" />
     </configuration>
     <configuration name="Special_String_Again_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Special_String_Again_2.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
       <method v="2" />
     </configuration>
-    <configuration name="Special_String_Again.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Special_String_Again.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Repeated_String_2.js" />
+        <item itemvalue="Node.js.Repeated_String.js" />
+        <item itemvalue="Node.js.Object_Assign.js" />
         <item itemvalue="Node.js.Jumping_0n_The_Clouds.js" />
         <item itemvalue="Node.js.Special_String_Again_2.js" />
-        <item itemvalue="Node.js.Special_String_Again.js" />
-        <item itemvalue="Node.js.CallbackFun.js" />
-        <item itemvalue="Node.js.Q7.js" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,9 @@
       <workItem from="1596825303325" duration="2727000" />
       <workItem from="1597159866898" duration="10913000" />
       <workItem from="1597225390766" duration="16000" />
-      <workItem from="1597518134554" duration="5449000" />
+      <workItem from="1597518134554" duration="5595000" />
+      <workItem from="1597564350024" duration="112000" />
+      <workItem from="1597596065130" duration="6039000" />
     </task>
     <servers />
   </component>
@@ -206,26 +210,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597225403057">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597564459607">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1597225403057" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1597523586648">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1597564459607" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1597605290343">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1597523586648" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1597523586647">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1597605290343" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1597605290343">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1597523586647" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1597523586647">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1597605290343" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1597605290342">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1597523586647" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1597523586648">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1597605290342" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1597605290343">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1597523586648" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1597605290343" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
