@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/minimumBribes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/HelloParent/Q1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/HelloParent/Q2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Element_Count_Obj_From_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/tactopus/Q1_Tactopus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/tactopus/Q2_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logical/CallbackFun.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/CallbackFun.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,42 +72,40 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Q2.js">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.Q2_1.js">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallbackFun.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/CallbackFun.js" working-dir="$PROJECT_DIR$/src/Logical">
+    <configuration name="Element_Count_Obj_From_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Element_Count_Obj_From_array.js" working-dir="$PROJECT_DIR$/src/Logical">
       <method v="2" />
     </configuration>
-    <configuration name="Counting_Valleys_Copied.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/Counting_Valleys_Copied.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
+    <configuration name="Q1_Tactopus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q1_Tactopus.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
       <method v="2" />
     </configuration>
-    <configuration name="Q1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/HelloParent/Q1.js" working-dir="$PROJECT_DIR$/src/interview/HelloParent">
+    <configuration name="Q2_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q2_1.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
+      <method v="2" />
+    </configuration>
+    <configuration name="Q2_Tactopus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
       <method v="2" />
     </configuration>
     <configuration name="Q2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/HelloParent/Q2.js" working-dir="$PROJECT_DIR$/src/interview/HelloParent">
       <method v="2" />
     </configuration>
-    <configuration name="minimumBribes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/minimumBribes.js" working-dir="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Q2_1.js" />
+        <item itemvalue="Node.js.Q2_Tactopus.js" />
+        <item itemvalue="Node.js.Element_Count_Obj_From_array.js" />
+        <item itemvalue="Node.js.Q1_Tactopus.js" />
         <item itemvalue="Node.js.Q2.js" />
-        <item itemvalue="Node.js.Q1.js" />
-        <item itemvalue="Node.js.CallbackFun.js" />
-        <item itemvalue="Node.js.minimumBribes.js" />
-        <item itemvalue="Node.js.Counting_Valleys_Copied.js" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +197,11 @@
       <workItem from="1598087972468" duration="17000" />
       <workItem from="1598976558145" duration="610000" />
       <workItem from="1599030513370" duration="2609000" />
-      <workItem from="1599063485714" duration="1062000" />
+      <workItem from="1599063485714" duration="1129000" />
+      <workItem from="1599107656429" duration="2101000" />
+      <workItem from="1599226125064" duration="5718000" />
+      <workItem from="1599844603550" duration="2869000" />
+      <workItem from="1599981245979" duration="3472000" />
     </task>
     <servers />
   </component>
@@ -223,26 +225,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591415837004" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599034048389">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599231865698">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599034048389" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1599063722927">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599231865698" />
+    <state width="1807" height="417" key="GridCell.Tab.0.bottom" timestamp="1599987318998">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1599063722927" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1599063722926">
+    <state width="1807" height="417" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1599987318998" />
+    <state width="1807" height="417" key="GridCell.Tab.0.center" timestamp="1599987318998">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1599063722926" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1599063722926">
+    <state width="1807" height="417" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1599987318998" />
+    <state width="1807" height="417" key="GridCell.Tab.0.left" timestamp="1599987318997">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1599063722926" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1599063722927">
+    <state width="1807" height="417" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1599987318997" />
+    <state width="1807" height="417" key="GridCell.Tab.0.right" timestamp="1599987318998">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1599063722927" />
+    <state width="1807" height="417" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1599987318998" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591417139500">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -291,14 +293,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591417139502" />
-    <state x="799" y="218" key="SettingsEditor" timestamp="1591182860091">
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="799" y="218" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1591182860091" />
-    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1594384638235">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1594384638235" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1599231610966" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1597522588630">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
