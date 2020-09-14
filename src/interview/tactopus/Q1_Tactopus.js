@@ -6,9 +6,6 @@ function minTollCost(input) {
     if(inputArray.length > 2) {
         for(let i=1; i<inputArray.length;i++) {
 
-            if() {
-
-            }
         }
     }
     else {
