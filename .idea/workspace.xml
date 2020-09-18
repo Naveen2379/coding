@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Pyramid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/tactopus/Q1_Tactopus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/tactopus/Q1_Tactopus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/tactopus/Q2_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/tactopus/Q2_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +69,11 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Q2_Tactopus.js">
+  <component name="RunManager" selected="Node.js.Pyramid.js">
     <configuration name="Element_Count_Obj_From_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Element_Count_Obj_From_array.js" working-dir="$PROJECT_DIR$/src/Logical">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pyramid.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Pyramid.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="Q1_Tactopus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q1_Tactopus.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
@@ -84,16 +85,13 @@
     <configuration name="Q2_Tactopus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
       <method v="2" />
     </configuration>
-    <configuration name="Q2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/HelloParent/Q2.js" working-dir="$PROJECT_DIR$/src/interview/HelloParent">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Pyramid.js" />
         <item itemvalue="Node.js.Q2_Tactopus.js" />
         <item itemvalue="Node.js.Q2_1.js" />
         <item itemvalue="Node.js.Element_Count_Obj_From_array.js" />
         <item itemvalue="Node.js.Q1_Tactopus.js" />
-        <item itemvalue="Node.js.Q2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +188,10 @@
       <workItem from="1599226125064" duration="5718000" />
       <workItem from="1599844603550" duration="2869000" />
       <workItem from="1599981245979" duration="4336000" />
-      <workItem from="1600060240209" duration="2041000" />
+      <workItem from="1600060240209" duration="2139000" />
+      <workItem from="1600141671462" duration="159000" />
+      <workItem from="1600422228035" duration="832000" />
+      <workItem from="1600424637651" duration="3048000" />
     </task>
     <servers />
   </component>
@@ -210,26 +211,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599231865698">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600423065906">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599231865698" />
-    <state width="1807" height="417" key="GridCell.Tab.0.bottom" timestamp="1600062890444">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600423065906" />
+    <state width="1807" height="417" key="GridCell.Tab.0.bottom" timestamp="1600445128998">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600062890444" />
-    <state width="1807" height="417" key="GridCell.Tab.0.center" timestamp="1600062890443">
+    <state width="1807" height="417" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600445128998" />
+    <state width="1807" height="417" key="GridCell.Tab.0.center" timestamp="1600445128997">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600062890443" />
-    <state width="1807" height="417" key="GridCell.Tab.0.left" timestamp="1600062890442">
+    <state width="1807" height="417" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600445128997" />
+    <state width="1807" height="417" key="GridCell.Tab.0.left" timestamp="1600445128996">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600062890442" />
-    <state width="1807" height="417" key="GridCell.Tab.0.right" timestamp="1600062890444">
+    <state width="1807" height="417" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600445128996" />
+    <state width="1807" height="417" key="GridCell.Tab.0.right" timestamp="1600445128998">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600062890444" />
+    <state width="1807" height="417" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600445128998" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
