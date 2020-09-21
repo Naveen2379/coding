@@ -19,6 +19,8 @@ console.log(newArr);
 * */
 
 
+
+/*  using filter - either sorted or unsorted array  */
 /*const originalArr = arr.filter( (elem, ind) => arr.indexOf(elem)===ind);
 console.log(originalArr);*/
 

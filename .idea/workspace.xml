@@ -20,10 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Zen3/DeleteDuplicates_SortedArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zen3/DeleteDuplicates_UnSortedArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/ObjWithSameKeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/RemElemMoreThanOnce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/SortArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/ConvertObjToArr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/InsertElementAtInd_Arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/MergeObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/ObjectIfEmpty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/ObjectLenth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/RemoveMidElemArr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/Remove_Duplicates_Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/SumOfValObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/WaysCreateObject.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pyramid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zen3/Pyramid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zen3/DeleteDuplicates_SortedArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Zen3/DeleteDuplicates_SortedArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zen3/DeleteDuplicates_UnSortedArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zen3/Pyramid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Zen3/Pyramid.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +66,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vcs-ui" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -64,47 +76,49 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Logical" />
+      <recent name="$PROJECT_DIR$/src/interview" />
       <recent name="$PROJECT_DIR$/src/Zen3" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait" />
       <recent name="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit" />
-      <recent name="$PROJECT_DIR$/src/interview" />
-      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/call" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.DeleteDuplicates_SortedArray.js">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.MergeObjects.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteDuplicates_SortedArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Zen3/DeleteDuplicates_SortedArray.js" working-dir="$PROJECT_DIR$/src/Zen3">
+    <configuration name="MergeObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/MergeObjects.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
       <method v="2" />
     </configuration>
-    <configuration name="Element_Count_Obj_From_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Element_Count_Obj_From_array.js" working-dir="$PROJECT_DIR$/src/Logical">
+    <configuration name="ObjWithSameKeys.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/ObjWithSameKeys.js" working-dir="$PROJECT_DIR$/src/Logical/Objects">
       <method v="2" />
     </configuration>
-    <configuration name="Pyramid.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Zen3/Pyramid.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="RemoveMidElemArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/RemoveMidElemArr.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
       <method v="2" />
     </configuration>
-    <configuration name="Q2_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q2_1.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
+    <configuration name="Remove_Duplicates_Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/Remove_Duplicates_Array.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
       <method v="2" />
     </configuration>
-    <configuration name="Q2_Tactopus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" working-dir="$PROJECT_DIR$/src/interview/tactopus">
+    <configuration name="SumOfValObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/SumOfValObject.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.DeleteDuplicates_SortedArray.js" />
-        <item itemvalue="Node.js.Pyramid.js" />
-        <item itemvalue="Node.js.Q2_Tactopus.js" />
-        <item itemvalue="Node.js.Q2_1.js" />
-        <item itemvalue="Node.js.Element_Count_Obj_From_array.js" />
+        <item itemvalue="Node.js.MergeObjects.js" />
+        <item itemvalue="Node.js.RemoveMidElemArr.js" />
+        <item itemvalue="Node.js.SumOfValObject.js" />
+        <item itemvalue="Node.js.Remove_Duplicates_Array.js" />
+        <item itemvalue="Node.js.ObjWithSameKeys.js" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +219,10 @@
       <workItem from="1600141671462" duration="159000" />
       <workItem from="1600422228035" duration="832000" />
       <workItem from="1600424637651" duration="3943000" />
-      <workItem from="1600451412743" duration="4170000" />
+      <workItem from="1600451412743" duration="4344000" />
+      <workItem from="1600492333673" duration="2193000" />
+      <workItem from="1600505456099" duration="1972000" />
+      <workItem from="1600622350123" duration="17591000" />
     </task>
     <servers />
   </component>
@@ -225,26 +242,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600456695504">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600677170980">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600456695504" />
-    <state width="1807" height="417" key="GridCell.Tab.0.bottom" timestamp="1600455829113">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600677170980" />
+    <state width="1807" height="363" key="GridCell.Tab.0.bottom" timestamp="1600715436745">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600455829113" />
-    <state width="1807" height="417" key="GridCell.Tab.0.center" timestamp="1600455829111">
+    <state width="1807" height="363" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600715436745" />
+    <state width="1807" height="363" key="GridCell.Tab.0.center" timestamp="1600715436742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600455829111" />
-    <state width="1807" height="417" key="GridCell.Tab.0.left" timestamp="1600455829110">
+    <state width="1807" height="363" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600715436742" />
+    <state width="1807" height="363" key="GridCell.Tab.0.left" timestamp="1600715436741">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600455829110" />
-    <state width="1807" height="417" key="GridCell.Tab.0.right" timestamp="1600455829112">
+    <state width="1807" height="363" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600715436741" />
+    <state width="1807" height="363" key="GridCell.Tab.0.right" timestamp="1600715436743">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="417" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600455829112" />
+    <state width="1807" height="363" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600715436743" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
