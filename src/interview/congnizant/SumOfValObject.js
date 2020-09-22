@@ -11,6 +11,8 @@ console.log(sum1);
 const keys = Object.keys(obj);
 console.log(keys.reduce( (acc, key) => obj[key]+acc , 0));
 
+
+
 const values = Object.values(obj);
 console.log(values.reduce( (acc, val) => acc+val, 0));
 
