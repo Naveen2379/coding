@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Logical/WorkingWithStrNumManipulations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/congnizant/SumArrOfSameObj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Obj_Arr_Assign.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/ObjectLenth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/congnizant/ObjectLenth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/RemoveMidElemArr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/congnizant/RemoveMidElemArr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/SumOfValObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/congnizant/SumOfValObject.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -73,25 +69,27 @@
       <recent name="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.WorkingWithStrNumManipulations.js">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.Obj_Arr_Assign.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjArrConstStrNum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/ObjArrConstStrNum.js" working-dir="$PROJECT_DIR$/src/Logical">
+    <configuration name="MergeObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/MergeObjects.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
+      <method v="2" />
+    </configuration>
+    <configuration name="Obj_Arr_Assign.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Obj_Arr_Assign.js" working-dir="$PROJECT_DIR$/src/Logical">
       <method v="2" />
     </configuration>
     <configuration name="ObjectLenth.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/ObjectLenth.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
-      <method v="2" />
-    </configuration>
-    <configuration name="RemoveMidElemArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/RemoveMidElemArr.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
       <method v="2" />
     </configuration>
     <configuration name="SumArrOfSameObj.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/SumArrOfSameObj.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
@@ -102,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Obj_Arr_Assign.js" />
+        <item itemvalue="Node.js.MergeObjects.js" />
         <item itemvalue="Node.js.WorkingWithStrNumManipulations.js" />
         <item itemvalue="Node.js.SumArrOfSameObj.js" />
         <item itemvalue="Node.js.ObjectLenth.js" />
-        <item itemvalue="Node.js.RemoveMidElemArr.js" />
-        <item itemvalue="Node.js.ObjArrConstStrNum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +209,8 @@
       <workItem from="1600492333673" duration="2193000" />
       <workItem from="1600505456099" duration="1972000" />
       <workItem from="1600622350123" duration="17778000" />
-      <workItem from="1600755309751" duration="7260000" />
+      <workItem from="1600755309751" duration="8137000" />
+      <workItem from="1600935493849" duration="3485000" />
     </task>
     <servers />
   </component>
@@ -235,30 +234,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600763426934" />
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom" timestamp="1600791059266">
+    <state width="1807" height="363" key="GridCell.Tab.0.bottom" timestamp="1600949770948">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600791059266" />
-    <state width="1807" height="363" key="GridCell.Tab.0.center" timestamp="1600791059265">
+    <state width="1807" height="363" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770948" />
+    <state width="1807" height="363" key="GridCell.Tab.0.center" timestamp="1600949770947">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600791059265" />
-    <state width="1807" height="363" key="GridCell.Tab.0.left" timestamp="1600791059264">
+    <state width="1807" height="363" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770947" />
+    <state width="1807" height="363" key="GridCell.Tab.0.left" timestamp="1600949770947">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600791059264" />
-    <state width="1807" height="363" key="GridCell.Tab.0.right" timestamp="1600791059266">
+    <state width="1807" height="363" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770947" />
+    <state width="1807" height="363" key="GridCell.Tab.0.right" timestamp="1600949770947">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600791059266" />
+    <state width="1807" height="363" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770947" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1599231610966" />
-    <state x="657" y="253" key="run.anything.popup" timestamp="1597522588630">
+    <state x="657" y="253" key="run.anything.popup" timestamp="1600937059488">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1597522588630" />
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600937059488" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1597160856877">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
