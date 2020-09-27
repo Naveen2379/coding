@@ -13,9 +13,11 @@ let obj = {
     },
     funFinal: function() {
         fun = () => {
+            console.log('in arrow fun');
             console.log(this.firstName+' '+this.lastName);         //Kairamkonda Naveen
         }
-        console.log(this.firstName+" "+this.lastName);            //undefined
+        fun();
+        return this.firstName+" "+this.lastName;            //Kairamkonda Naveen
     }
 }
 

@@ -4,8 +4,8 @@ const obj = {
     getX: function() { return this.x; }
 };
 
-console.log(obj.getX());
-//  returns 81
+console.log(x);                 //
+console.log(obj.getX());        // 81
 
 const retrieveX = obj.getX;
 console.log(retrieveX());       //undefined

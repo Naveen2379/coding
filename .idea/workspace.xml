@@ -20,8 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Logical/Obj_Arr_Assign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Lexical_Scoping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_This.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Call_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/This_Call_Apply_Bind_Desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/This_ClassContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/This_FunctionContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/arrow_this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/this_object_conversion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Call_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Call_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/call_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_apply_bind.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/call_apply_bind.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,53 +73,51 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Closures" />
       <recent name="$PROJECT_DIR$/src/Logical" />
       <recent name="$PROJECT_DIR$/src/interview" />
       <recent name="$PROJECT_DIR$/src/Zen3" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait" />
-      <recent name="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Obj_Arr_Assign.js">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.Bind_This.js">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/MergeObjects.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
+    <configuration name="Bind_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
       <method v="2" />
     </configuration>
-    <configuration name="Obj_Arr_Assign.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Obj_Arr_Assign.js" working-dir="$PROJECT_DIR$/src/Logical">
+    <configuration name="Bind_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_3.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
       <method v="2" />
     </configuration>
-    <configuration name="ObjectLenth.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/ObjectLenth.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
+    <configuration name="Bind_This.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_This.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
       <method v="2" />
     </configuration>
-    <configuration name="SumArrOfSameObj.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/congnizant/SumArrOfSameObj.js" working-dir="$PROJECT_DIR$/src/interview/congnizant">
+    <configuration name="Closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Closure.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Closures">
       <method v="2" />
     </configuration>
-    <configuration name="WorkingWithStrNumManipulations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/WorkingWithStrNumManipulations.js" working-dir="$PROJECT_DIR$/src/Logical">
+    <configuration name="Lexical_Scoping.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Lexical_Scoping.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Obj_Arr_Assign.js" />
-        <item itemvalue="Node.js.MergeObjects.js" />
-        <item itemvalue="Node.js.WorkingWithStrNumManipulations.js" />
-        <item itemvalue="Node.js.SumArrOfSameObj.js" />
-        <item itemvalue="Node.js.ObjectLenth.js" />
+        <item itemvalue="Node.js.Bind_This.js" />
+        <item itemvalue="Node.js.Bind_3.js" />
+        <item itemvalue="Node.js.Bind_1.js" />
+        <item itemvalue="Node.js.Closure.js" />
+        <item itemvalue="Node.js.Lexical_Scoping.js" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +223,8 @@
       <workItem from="1600505456099" duration="1972000" />
       <workItem from="1600622350123" duration="17778000" />
       <workItem from="1600755309751" duration="8137000" />
-      <workItem from="1600935493849" duration="3485000" />
+      <workItem from="1600935493849" duration="4172000" />
+      <workItem from="1601188276491" duration="15605000" />
     </task>
     <servers />
   </component>
@@ -230,26 +244,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601190762961">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601190762961" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600763426934">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600763426934" />
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom" timestamp="1600949770948">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1601204691920">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770948" />
-    <state width="1807" height="363" key="GridCell.Tab.0.center" timestamp="1600949770947">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
+    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1601204691920">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770947" />
-    <state width="1807" height="363" key="GridCell.Tab.0.left" timestamp="1600949770947">
+    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
+    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1601204691920">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770947" />
-    <state width="1807" height="363" key="GridCell.Tab.0.right" timestamp="1600949770947">
+    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1601204691920">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600949770947" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
