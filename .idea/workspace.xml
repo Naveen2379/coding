@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/Async-Await_Desc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/AsyncAwait_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/async_await_execution_order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Practise_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises_Desc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/UsingCallbacks_WithOutPromises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Akshay Saini/debouncing/DeBouncing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Akshay Saini/debouncing/debouncing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Certa/sum(1)(4)(5).js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/AsyncAwait.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/AsyncAwait.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Promises.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eGain_Assessment/H1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/eGain_Assessment/H1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -62,59 +56,57 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Akshay Saini/debouncing" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Closures" />
       <recent name="$PROJECT_DIR$/src/Logical" />
-      <recent name="$PROJECT_DIR$/src/interview" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.MakingFunctionsAsPromises_2.js">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript Debug.debouncing.html">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="debouncing.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/coding/src/Akshay Saini/debouncing/debouncing.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="AsyncAwait_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/AsyncAwait_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await">
+      <method v="2" />
+    </configuration>
     <configuration name="MakingFunctionsAsPromises_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
       <method v="2" />
     </configuration>
-    <configuration name="MakingFunctionsAsPromises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
+    <configuration name="spread_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/spread/spread_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/spread">
       <method v="2" />
     </configuration>
-    <configuration name="Promise_Chaining.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
-      <method v="2" />
-    </configuration>
-    <configuration name="Promises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
-      <method v="2" />
-    </configuration>
-    <configuration name="UsingCallbacks_WithOutPromises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/UsingCallbacks_WithOutPromises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
+    <configuration name="sum(1)(4)(5).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/interview/Certa/sum(1)(4)(5).js" working-dir="$PROJECT_DIR$/src/interview/Certa">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.debouncing.html" />
+        <item itemvalue="Node.js.sum(1)(4)(5).js" />
+        <item itemvalue="Node.js.spread_1.js" />
+        <item itemvalue="Node.js.AsyncAwait_1.js" />
         <item itemvalue="Node.js.MakingFunctionsAsPromises_2.js" />
-        <item itemvalue="Node.js.Promise_Chaining.js" />
-        <item itemvalue="Node.js.MakingFunctionsAsPromises.js" />
-        <item itemvalue="Node.js.Promises.js" />
-        <item itemvalue="Node.js.UsingCallbacks_WithOutPromises.js" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +214,8 @@
       <workItem from="1600755309751" duration="8137000" />
       <workItem from="1600935493849" duration="4172000" />
       <workItem from="1601188276491" duration="16960000" />
-      <workItem from="1601361513132" duration="9675000" />
+      <workItem from="1601361513132" duration="13263000" />
+      <workItem from="1601378583289" duration="12846000" />
     </task>
     <servers />
   </component>
@@ -246,26 +239,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601371750871" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600763426934">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601396493742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600763426934" />
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1601371486968">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601396493742" />
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1601395244329">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486968" />
-    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1601371486967">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601395244329" />
+    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1601395244328">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486967" />
-    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1601371486966">
+    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601395244328" />
+    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1601395244328">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486966" />
-    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1601371486968">
+    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601395244328" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1601395244329">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486968" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601395244329" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -274,10 +267,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600937059488" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601366135463">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601397786658">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601366135463" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601397786658" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
