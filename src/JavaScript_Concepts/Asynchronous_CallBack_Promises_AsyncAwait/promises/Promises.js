@@ -11,5 +11,5 @@ let prom = new Promise((resolve, reject) => {
     //resolve('Success!');
 });
 
-prom.then( (result) => console.log(result)).catch((err) => console.log(err));
+prom.then( (result) => console.log(result)).catch((err) => console.log(err + ' error'));
 

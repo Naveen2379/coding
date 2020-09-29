@@ -20,23 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Closure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Lexical_Scoping.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_This.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Call_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/This_Call_Apply_Bind_Desc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/This_ClassContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/This_FunctionContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/arrow_this.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/this_object_conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/Async-Await_Desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/AsyncAwait_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/async_await_execution_order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Practise_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises_Desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/UsingCallbacks_WithOutPromises.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrow_This_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Bind_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/Call_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Call_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/call_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/call_apply_bind/call_apply_bind.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/call_apply_bind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/AsyncAwait.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await/AsyncAwait.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/Promises.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,51 +68,53 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Closures" />
-      <recent name="$PROJECT_DIR$/src/Logical" />
-      <recent name="$PROJECT_DIR$/src/interview" />
-      <recent name="$PROJECT_DIR$/src/Zen3" />
-      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/async-await" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Closures" />
+      <recent name="$PROJECT_DIR$/src/Logical" />
+      <recent name="$PROJECT_DIR$/src/interview" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.Bind_This.js">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.MakingFunctionsAsPromises_2.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bind_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
+    <configuration name="MakingFunctionsAsPromises_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
       <method v="2" />
     </configuration>
-    <configuration name="Bind_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_3.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
+    <configuration name="MakingFunctionsAsPromises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
       <method v="2" />
     </configuration>
-    <configuration name="Bind_This.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_This.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
+    <configuration name="Promise_Chaining.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
       <method v="2" />
     </configuration>
-    <configuration name="Closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Closure.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Closures">
+    <configuration name="Promises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
       <method v="2" />
     </configuration>
-    <configuration name="Lexical_Scoping.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Lexical_Scoping.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
+    <configuration name="UsingCallbacks_WithOutPromises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/UsingCallbacks_WithOutPromises.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Bind_This.js" />
-        <item itemvalue="Node.js.Bind_3.js" />
-        <item itemvalue="Node.js.Bind_1.js" />
-        <item itemvalue="Node.js.Closure.js" />
-        <item itemvalue="Node.js.Lexical_Scoping.js" />
+        <item itemvalue="Node.js.MakingFunctionsAsPromises_2.js" />
+        <item itemvalue="Node.js.Promise_Chaining.js" />
+        <item itemvalue="Node.js.MakingFunctionsAsPromises.js" />
+        <item itemvalue="Node.js.Promises.js" />
+        <item itemvalue="Node.js.UsingCallbacks_WithOutPromises.js" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +221,8 @@
       <workItem from="1600622350123" duration="17778000" />
       <workItem from="1600755309751" duration="8137000" />
       <workItem from="1600935493849" duration="4172000" />
-      <workItem from="1601188276491" duration="15605000" />
+      <workItem from="1601188276491" duration="16960000" />
+      <workItem from="1601361513132" duration="9675000" />
     </task>
     <servers />
   </component>
@@ -244,30 +242,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601190762961">
+    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601371750871">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601190762961" />
+    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601371750871" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600763426934">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600763426934" />
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1601204691920">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1601371486968">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
-    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1601204691920">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486968" />
+    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1601371486967">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
-    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1601204691920">
+    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486967" />
+    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1601371486966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
-    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1601204691920">
+    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486966" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1601371486968">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601204691920" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601371486968" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -276,10 +274,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600937059488" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1597160856877">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601366135463">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1597160856877" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601366135463" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

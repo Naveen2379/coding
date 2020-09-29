@@ -1,0 +1,14 @@
+The Promise object represents the eventual completion(or failure) of an async operation and its resulting value.
+
+Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function.
+
+The then() method returns a Promise. It takes up to two arguments: callback functions for the success and failure cases of the Promise
+p.then(onFulfilled[, onRejected]);
+p.then(value => {
+  // fulfillment
+}, reason => {
+  // rejection
+});
+
+onFulfilled -A Function is called if the Promise is fulfilled. This function has one argument, the fullfilment value.
+onRejected  -A Function is called if the Promise is rejected. This function has one argumen, the rejection reason.
