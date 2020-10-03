@@ -11,32 +11,32 @@
 
 function sum(a) {
     //console.log(a);
-    return function sum(b) {
+    return function (b) {
         //console.log(a);
         return b ? a+b : a;
     }
 }
 //sum(1);       //1
-//console.log(sum(1)(2));    //1 3
+//console.log(sum(1)(2));    //3
 
 
-let add = function (a) {
+function add(a) {
     //console.log(a);
     return function (b) {
-        console.log(b);
+        //console.log(b);
         if(b) {
-            console.log('if condition');
+            //console.log('if condition');
             return add(a+b);
         }
         else {
-            console.log('else condition');
+            //console.log('else condition');
             return a;
         }
     }
 }
 
-//console.log(add(1)(4)(5)());      //10
-//[add(1)] should return a function, so that the next parameter can be passed to that returned as an argument i.e., (5) --> returnedFun(5)
+console.log(add(1)(4)(5)());      //10
+//[add(1)] should return a function, so that the next parameter can be passed to that returned function as an argument i.e., (4) --> returnedFun(4)
 
 function add1(a) {
     console.log(a);
@@ -50,4 +50,4 @@ function add1(a) {
 
 /* shorter syntax */
 let sum1 = a => b => b ? sum1(a+b) : a;
-console.log(sum1(5)(10)(5)());              //20
+//console.log(sum1(5)(10)(5)());              //20

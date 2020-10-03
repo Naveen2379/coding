@@ -1,4 +1,4 @@
-const testOfExistence = require('../interview/TestOfExistence');
+const testOfExistence = require('../Companies_Interviews/TestOfExistence');
 
 test('returns NO for ""', () => {
     let input = '';

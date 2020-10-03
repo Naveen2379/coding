@@ -1,4 +1,4 @@
-const Array_Sort = require('../interview/Array_Sort');
+const Array_Sort = require('../Companies_Interviews/Array_Sort');
 
 test('returns [1,2] for [2,1] ', () => {
    const result = Array_Sort([2,1]);

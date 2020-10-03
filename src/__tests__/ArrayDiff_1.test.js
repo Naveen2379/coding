@@ -1,4 +1,4 @@
-const ArrayDiff_1 = require('../interview/ArrayDiff_1');
+const ArrayDiff_1 = require('../Companies_Interviews/ArrayDiff_1');
 
 test('return [] for [],[]', () => {
        const result = ArrayDiff_1([],[]);

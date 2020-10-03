@@ -1,4 +1,4 @@
-const factorial = require('../interview/Factorial_Recursion');
+const factorial = require('../Companies_Interviews/Factorial_Recursion');
 
 test('returns 1 for 0', () => {
     let input = 0;

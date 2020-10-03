@@ -1,4 +1,4 @@
-const gemStones = require('../interview/GemStones');
+const gemStones = require('../Companies_Interviews/GemStones');
 
 test('returns "there should be at least two rocks" for 1\nabacd', () => {
    let input = '1\nabacd';
