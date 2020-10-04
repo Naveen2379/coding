@@ -171,3 +171,11 @@ console.log(zz);            //10
 let xx=20;
 console.log(xx);            //20
 
+function fun() {
+    if(true) {
+        let x = 10;
+    }
+    console.log(x);
+}
+fun();                      //ReferenceError: x is not defined
+

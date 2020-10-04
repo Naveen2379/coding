@@ -20,116 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Closures_Scope_Var_Let.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Let_Hoisting_Practise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/Bind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/CountPalindromes_String.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/ForLoop_SetTimeOut.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/NestedObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/ObjectIfEmpty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/WaysCreateObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ES6/CreatingObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Counter_With_Closures_W3Schools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ForLoop_Closures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Techsith_Closures.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Why_Closures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/showCount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/showCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Function_Are_Objects/Function_Obj.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/function_arguments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/self-function-invoke/FunctionInvocation_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/self-function-invoke/Self_Invoking_Function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/VarLetConst_Desc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Closure.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Closure.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Closures/Lexical_Scoping.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Lexical_Scoping.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Call_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Certa/WhatFunctionReturns.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/ArrayDiff_1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/ArrayDiff_1.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/Array_Sort.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/Array_Sort.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/Factorial_Recursion.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/Factorial_Recursion.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/GemStones.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/GemStones.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/LargestDivisor.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/LargestDivisor.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/LastKidWhoGetsToy.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/LastKidWhoGetsToy.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/LastKidWithPositionGiven.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/Mumba_Zumba.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/TestOfExistence.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/TestOfExistence.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/ArrayDiff_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/ArrayDiff_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Array_Compare.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Array_Compare.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Array_Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Array_Sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/AscendingArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AscendingArray.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Certa/sum(1)(4)(5).js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Certa/sum(1)(4)(5).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Classmarker_questions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Classmarker_questions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Chaining_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/Chaining_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Coding_Interview_Q2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/Coding_Interview_Q2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Coding_Interview_Q3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/Coding_Interview_Q3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Q1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/Q1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/Q2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/Q2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/chaining_promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/chaining_promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/EPAM_Questions/synchronous.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/EPAM_Questions/synchronous.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Factorial_Recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Factorial_Recursion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/FunDeclarationExpression.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/FunDeclarationExpression.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/FuncFirstClassObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/FuncFirstClassObjects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/GemStones.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/GemStones.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/HeapSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/HeapSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/HeapSort_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/HeapSort_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/HelloParent/Q1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/HelloParent/Q1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/HelloParent/Q2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/HelloParent/Q2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/HelloWorld.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/HelloWorld.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/JS_Interview_Que_Techsith.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/JS_Interview_Que_Techsith.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/LargestCommonDivisor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/LargestCommonDivisor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/LargestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/LargestNumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/LastKidWhoGetsToy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/LastKidWhoGetsToy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/LastKidWithPositionGiven.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/LastKidWithPositionGiven.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/LetterCountString.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/LetterCountString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Mumba_Zumba.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mumba_Zumba.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/ObjectDestructring.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/ObjectDestructring.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Peppo/FirstNonRepeatingCharacter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Peppo/FirstNonRepeatingCharacter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Promise_RemoveGarbage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Promise_RemoveGarbage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Promises_CleanRoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Promises_CleanRoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Questions_guru99/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Questions_guru99/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/RegularArrowThisKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/RegularArrowThisKeyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Scope_Variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Object_Copying.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/StringReverse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/StringReverse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/TestOfExistence.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/TestOfExistence.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/ThisKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/ThisKeyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/VarLet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/VarLet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Z5X_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Z5X_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Zen3/DeleteDuplicates_SortedArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Zen3/DeleteDuplicates_SortedArray.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/Zen3/Pyramid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Zen3/Pyramid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/anonymousFun.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/anonymousFun.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/async-await/AsyncAwaitSetTimeOut.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/AsyncAwaitSetTimeOut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/async-await/Promise_Then.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/Promise_Then.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/closures.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/ConvertObjToArr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/ConvertObjToArr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/InsertElementAtInd_Arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Hoisting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/MergeObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/MergeObjects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/ObjectIfEmpty.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Scope_Variables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/ObjectLenth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/ObjectLenth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/RemoveMidElemArr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/RemoveMidElemArr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/Remove_Duplicates_Array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/Remove_Duplicates_Array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/SumArrOfSameObj.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/SumArrOfSameObj.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/SumOfValObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/SumOfValObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/congnizant/WaysCreateObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/InsertElementAtInd_Arr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/inline_block.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/inline_block.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/object_method.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/object_method.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/passingFuntoFun.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/passingFuntoFun.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/positionProperty.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/positionProperty.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/setTimeOut.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/setTimeOut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/statementBreak.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/statementBreak.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/statementBreak.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/statementBreak.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/tactopus/Q1_Tactopus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/tactopus/Q1_Tactopus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/tactopus/Q2_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/tactopus/Q2_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/tactopus/Q2_Tactopus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/tactopus/Q2_Tactopus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/trickyJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/trickyJS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/typeOfArguments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/typeOfArguments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Closures_Scope_Var_Let.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Closures_Scope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Let_Hoisting_Practise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Let_Practise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Why_Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Why_Closures.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,25 +59,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Logical/Closures" />
       <recent name="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/functions" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/self-function-invoke" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts" />
-      <recent name="$PROJECT_DIR$/src/Akshay Saini/debouncing" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures" />
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Var_Let_Hoisting_Practise.js">
+  <component name="RunManager" selected="Node.js.Using_Closure_To_Create_Private_Counter.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -190,28 +89,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bind.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/Bind.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics">
+    <configuration name="ClosureInLoop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures">
       <method v="2" />
     </configuration>
-    <configuration name="Closures_Scope_Var_Let.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Closures_Scope_Var_Let.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round">
+    <configuration name="Functions_Closures.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
       <method v="2" />
     </configuration>
-    <configuration name="CountPalindromes_String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/CountPalindromes_String.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics">
+    <configuration name="Using_Closure_To_Create_Private_Counter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
       <method v="2" />
     </configuration>
-    <configuration name="Var_Hoisting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Hoisting.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round">
+    <configuration name="forLoop_setTimeOut_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
       <method v="2" />
     </configuration>
-    <configuration name="Var_Let_Hoisting_Practise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Let_Hoisting_Practise.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round">
+    <configuration name="forLoop_setTimeOut_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" working-dir="$PROJECT_DIR$/src/Logical">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Var_Let_Hoisting_Practise.js" />
-        <item itemvalue="Node.js.Closures_Scope_Var_Let.js" />
-        <item itemvalue="Node.js.Var_Hoisting.js" />
-        <item itemvalue="Node.js.CountPalindromes_String.js" />
-        <item itemvalue="Node.js.Bind.js" />
+        <item itemvalue="Node.js.Using_Closure_To_Create_Private_Counter.js" />
+        <item itemvalue="Node.js.Functions_Closures.js" />
+        <item itemvalue="Node.js.forLoop_setTimeOut_1.js" />
+        <item itemvalue="Node.js.forLoop_setTimeOut_2.js" />
+        <item itemvalue="Node.js.ClosureInLoop.js" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +221,7 @@
       <workItem from="1601361513132" duration="13263000" />
       <workItem from="1601378583289" duration="13792000" />
       <workItem from="1601444981593" duration="42810000" />
-      <workItem from="1601632897336" duration="9483000" />
+      <workItem from="1601632897336" duration="21502000" />
     </task>
     <servers />
   </component>
@@ -346,26 +245,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601539344128" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601396493742">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601795458531">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601396493742" />
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1601721478130">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601795458531" />
+    <state width="1807" height="393" key="GridCell.Tab.0.bottom" timestamp="1601793903791">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601721478130" />
-    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1601721478129">
+    <state width="1807" height="393" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903791" />
+    <state width="1807" height="393" key="GridCell.Tab.0.center" timestamp="1601793903790">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601721478129" />
-    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1601721478128">
+    <state width="1807" height="393" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903790" />
+    <state width="1807" height="393" key="GridCell.Tab.0.left" timestamp="1601793903790">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601721478128" />
-    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1601721478129">
+    <state width="1807" height="393" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903790" />
+    <state width="1807" height="393" key="GridCell.Tab.0.right" timestamp="1601793903790">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601721478129" />
+    <state width="1807" height="393" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903790" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1601637238063">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
