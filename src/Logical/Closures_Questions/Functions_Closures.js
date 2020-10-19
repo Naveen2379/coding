@@ -1,7 +1,9 @@
 /*
+    throw error as this function expression doesn't get hoisted
+TypeError: createBase is not a function
 var addSix = createBase(6);
-addSix(10); // returns 16
-addSix(21); // returns 27
+addSix(10);
+addSix(21);
 */
 
 var createBase = function(x) {

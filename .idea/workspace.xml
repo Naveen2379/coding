@@ -20,15 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Melvault/Promise_AftertTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Melvault/transformer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Zelp/Array_Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Obj_getOwnPropertyNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Practise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Copy_Obj_Enumerable_For_In.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Copy_Obj_Prop_For_In.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Copy_Obj_Using_For_In.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Using_For_In_Desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Closures_Desc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Closures_Scope_Var_Let.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Closures_Scope.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Let_Hoisting_Practise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Var_Let_Practise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Why_Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Why_Closures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Object_Copying.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Object_Copying.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Practise_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Practise_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises_Desc" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises_Desc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Assign.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Assign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object..js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,25 +78,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Companies_Interviews/Melvault" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in" />
       <recent name="$PROJECT_DIR$/src/Logical/Closures" />
       <recent name="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/functions" />
-      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/self-function-invoke" />
-      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures" />
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Using_Closure_To_Create_Private_Counter.js">
+  <component name="RunManager" selected="Node.js.forLoop_setTimeOut_2.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -89,28 +108,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClosureInLoop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/ClosureInLoop.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures">
+    <configuration name="Array_Square.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Zelp/Array_Square.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Zelp">
       <method v="2" />
     </configuration>
     <configuration name="Functions_Closures.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
       <method v="2" />
     </configuration>
-    <configuration name="Using_Closure_To_Create_Private_Counter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
-      <method v="2" />
-    </configuration>
     <configuration name="forLoop_setTimeOut_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
       <method v="2" />
     </configuration>
-    <configuration name="forLoop_setTimeOut_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" working-dir="$PROJECT_DIR$/src/Logical">
+    <configuration name="forLoop_setTimeOut_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
+      <method v="2" />
+    </configuration>
+    <configuration name="transformer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Melvault/transformer.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Melvault">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Using_Closure_To_Create_Private_Counter.js" />
-        <item itemvalue="Node.js.Functions_Closures.js" />
-        <item itemvalue="Node.js.forLoop_setTimeOut_1.js" />
         <item itemvalue="Node.js.forLoop_setTimeOut_2.js" />
-        <item itemvalue="Node.js.ClosureInLoop.js" />
+        <item itemvalue="Node.js.forLoop_setTimeOut_1.js" />
+        <item itemvalue="Node.js.Functions_Closures.js" />
+        <item itemvalue="Node.js.transformer.js" />
+        <item itemvalue="Node.js.Array_Square.js" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +240,14 @@
       <workItem from="1601361513132" duration="13263000" />
       <workItem from="1601378583289" duration="13792000" />
       <workItem from="1601444981593" duration="42810000" />
-      <workItem from="1601632897336" duration="21502000" />
+      <workItem from="1601632897336" duration="22658000" />
+      <workItem from="1601837797564" duration="11000" />
+      <workItem from="1601876821146" duration="14660000" />
+      <workItem from="1602565833668" duration="1805000" />
+      <workItem from="1602583348732" duration="613000" />
+      <workItem from="1602597153825" duration="20343000" />
+      <workItem from="1602860735869" duration="1221000" />
+      <workItem from="1603000049706" duration="8055000" />
     </task>
     <servers />
   </component>
@@ -241,90 +267,90 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601539344128">
+    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603092361059">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601539344128" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601795458531">
+    <state x="691" y="354" width="715" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1603092361059" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601969216931">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601795458531" />
-    <state width="1807" height="393" key="GridCell.Tab.0.bottom" timestamp="1601793903791">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601969216931" />
+    <state width="1807" height="225" key="GridCell.Tab.0.bottom" timestamp="1603091696502">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="393" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903791" />
-    <state width="1807" height="393" key="GridCell.Tab.0.center" timestamp="1601793903790">
+    <state width="1807" height="225" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696502" />
+    <state width="1807" height="225" key="GridCell.Tab.0.center" timestamp="1603091696501">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="393" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903790" />
-    <state width="1807" height="393" key="GridCell.Tab.0.left" timestamp="1601793903790">
+    <state width="1807" height="225" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696501" />
+    <state width="1807" height="225" key="GridCell.Tab.0.left" timestamp="1603091696501">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="393" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903790" />
-    <state width="1807" height="393" key="GridCell.Tab.0.right" timestamp="1601793903790">
+    <state width="1807" height="225" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696501" />
+    <state width="1807" height="225" key="GridCell.Tab.0.right" timestamp="1603091696501">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="393" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601793903790" />
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1601637238063">
+    <state width="1807" height="225" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696501" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1602948000868">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238063" />
-    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1601637238062">
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000868" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1602948000868">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238062" />
-    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1601637238062">
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000868" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1602948000867">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238062" />
-    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1601637238063">
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000867" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1602948000868">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238063" />
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1601637238064">
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000868" />
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1602948000870">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238064" />
-    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1601637238063">
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000870" />
+    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1602948000869">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238063" />
-    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1601637238063">
+    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000869" />
+    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1602948000869">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238063" />
-    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1601637238064">
+    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000869" />
+    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1602948000870">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238064" />
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1601637238069">
+    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000870" />
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1602948000871">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238069" />
-    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1601637238069">
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000871" />
+    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1602948000871">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238069" />
-    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1601637238068">
+    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000871" />
+    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1602948000870">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238068" />
-    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1601637238069">
+    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000870" />
+    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1602948000871">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601637238069" />
-    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599231610966">
+    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602948000871" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1602669453972">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1599231610966" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1602669453972" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1600937059488">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600937059488" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601397786658">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601910290935">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601397786658" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601910290935" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

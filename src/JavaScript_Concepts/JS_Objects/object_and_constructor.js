@@ -1,14 +1,14 @@
 const obj1 = {
     carName: 'Fiat',
     model: 2015,
-    key: 'Off',
+    key: 'On',
     start: function (carName) {
         {
             this.carName = carName;
             console.log(this.carName);          //Mahindra
         }
         if(this.key === 'On') {
-            return this.carName + ' starts';    //
+            return this.carName + ' starts';    //Mahindra starts
         }
         else {
             console.log(this.carName);          //Mahindra

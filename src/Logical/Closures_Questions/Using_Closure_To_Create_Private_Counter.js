@@ -6,7 +6,7 @@ var func = function () {
     }
 }
 
-/* we can't access counter variable from outside, which has function scope which means it became a private coubter */
+/* we can't access counter variable from outside, which has function scope which means it became a private counter */
 //console.log(counter);           //ReferenceError: counter is not defined
 var counterFun = func();
 counterFun();               //1

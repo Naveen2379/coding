@@ -8,4 +8,4 @@ promise1.then( result => console.log(result))
 
 
 let promise2 = new Promise( reject=>console.log('rejected'))
-promise2.then(result => console.log(result));
+promise2.then(result => consoltrane.log(result));

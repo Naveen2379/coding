@@ -27,6 +27,12 @@ Primitive values are immutable (they are hardcoded and therefore cannot be chang
 * Person.name = 'John'; Person.age = 50
 * */
 
+/*
+JavaScript Objects are Mutable
+Objects are mutable: They are addressed by reference, not by value.
+
+If person is an object, the following statement will not create a copy of person:
+*/
 var Person = new Object();
 Person.name = 'John'; Person.age = 50
 console.log(Person);
@@ -40,10 +46,13 @@ all primitive types (Undefined, Null, Boolean, Number, BigInt, String, Symbol) a
 
 /*
 //Immutable
-let imString = 'Hello';
-imString = 'World!'
+var immutableString = "Hello";
 
-console.log(imString);  //World!*/
+// In the above code, a new object with string value is created.
+
+immutableString = immutableString + "World";
+
+// We are now appending "World" to the existing value.
 /*
 On appending the "immutableString" with a string value, following events occur:
 

@@ -11,4 +11,4 @@ p.then(value => {
 });
 
 onFulfilled -A Function is called if the Promise is fulfilled. This function has one argument, the fullfilment value.
-onRejected  -A Function is called if the Promise is rejected. This function has one argumen, the rejection reason.
+onRejected  -A Function is called if the Promise is rejected. This function has one argument, the rejection reason.

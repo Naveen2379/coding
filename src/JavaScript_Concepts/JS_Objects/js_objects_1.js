@@ -3,8 +3,8 @@ function Person(firstName, lastName) {
     this.lastName = lastName;
 }
 
-let person3 = new Person('ravi', 'kumar');
-person3.fullName = function() {
+let person1 = new Person('ravi', 'kumar');
+person1.fullName = function() {
     return this.firstName+' '+this.lastName;
 }
-console.log(person3.fullName());
+console.log(person1.fullName());
