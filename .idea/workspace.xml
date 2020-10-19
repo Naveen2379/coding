@@ -20,34 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Melvault/Promise_AftertTime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Melvault/transformer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/Zelp/Array_Square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Obj_getOwnPropertyNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Practise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Copy_Obj_Enumerable_For_In.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Copy_Obj_Prop_For_In.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Copy_Obj_Using_For_In.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in/Using_For_In_Desc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/functions/Closures/Closures_Desc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Object_Copying.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/1st_Round/Object_Copying.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Mammoth_Analytics/Screening_Test/2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/MakingFunctionsAsPromises_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Chaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Practise_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promise_Practise_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises_Desc" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Asynchronous_CallBack_Promises_AsyncAwait/promises/Promises_Desc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Assign.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Object_Assign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object..js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Var_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/Melvault/transformer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/Melvault/transformer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +70,16 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.forLoop_setTimeOut_2.js">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.transformer.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,10 +101,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.transformer.js" />
         <item itemvalue="Node.js.forLoop_setTimeOut_2.js" />
         <item itemvalue="Node.js.forLoop_setTimeOut_1.js" />
         <item itemvalue="Node.js.Functions_Closures.js" />
-        <item itemvalue="Node.js.transformer.js" />
         <item itemvalue="Node.js.Array_Square.js" />
       </list>
     </recent_temporary>
@@ -247,7 +223,8 @@
       <workItem from="1602583348732" duration="613000" />
       <workItem from="1602597153825" duration="20343000" />
       <workItem from="1602860735869" duration="1221000" />
-      <workItem from="1603000049706" duration="8055000" />
+      <workItem from="1603000049706" duration="8387000" />
+      <workItem from="1603094651826" duration="3434000" />
     </task>
     <servers />
   </component>
@@ -275,22 +252,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601969216931" />
-    <state width="1807" height="225" key="GridCell.Tab.0.bottom" timestamp="1603091696502">
+    <state width="1807" height="225" key="GridCell.Tab.0.bottom" timestamp="1603092697110">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="225" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696502" />
-    <state width="1807" height="225" key="GridCell.Tab.0.center" timestamp="1603091696501">
+    <state width="1807" height="225" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603092697110" />
+    <state width="1807" height="225" key="GridCell.Tab.0.center" timestamp="1603092697109">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="225" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696501" />
-    <state width="1807" height="225" key="GridCell.Tab.0.left" timestamp="1603091696501">
+    <state width="1807" height="225" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603092697109" />
+    <state width="1807" height="225" key="GridCell.Tab.0.left" timestamp="1603092697109">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="225" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696501" />
-    <state width="1807" height="225" key="GridCell.Tab.0.right" timestamp="1603091696501">
+    <state width="1807" height="225" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603092697109" />
+    <state width="1807" height="225" key="GridCell.Tab.0.right" timestamp="1603092697110">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="225" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603091696501" />
+    <state width="1807" height="225" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603092697110" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1602948000868">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
