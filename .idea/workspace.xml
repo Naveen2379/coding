@@ -20,14 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/Code_Review_Process_Desc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/compact_code/After.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/compact_code/Before.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure/After_Review.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure/Before_Review.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure/Remove_Duplicates_Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/After_Review.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/Before_Review.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can/After1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can/Before1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/keep_it_simple/After2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/keep_it_simple/Before2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/After3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/Before3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code_Review_Process/Code_Review_Process_Desc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code_Review_Process/Code_Review_Process_Desc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <recent name="$PROJECT_DIR$/src/Logical/Closures" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.After_Review.js">
+  <component name="RunManager" selected="Node.js.Before3.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -88,28 +90,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="After_Review.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure/After_Review.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure">
+    <configuration name="After3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/After3.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability">
       <method v="2" />
     </configuration>
-    <configuration name="Before_Review.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure/Before_Review.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process">
+    <configuration name="After_Review.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/After_Review.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables">
       <method v="2" />
     </configuration>
-    <configuration name="forLoop_setTimeOut_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
+    <configuration name="Before1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can/Before1.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can">
       <method v="2" />
     </configuration>
-    <configuration name="forLoop_setTimeOut_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" working-dir="$PROJECT_DIR$/src/Logical/Closures_Questions">
+    <configuration name="Before3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/Before3.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability">
       <method v="2" />
     </configuration>
-    <configuration name="transformer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/Melvault/transformer.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/Melvault">
+    <configuration name="Before_Review.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/Before_Review.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.After_Review.js" />
-        <item itemvalue="Node.js.Before_Review.js" />
-        <item itemvalue="Node.js.transformer.js" />
-        <item itemvalue="Node.js.forLoop_setTimeOut_2.js" />
-        <item itemvalue="Node.js.forLoop_setTimeOut_1.js" />
+        <item itemvalue="Node.js.Before3.js" />
+        <item itemvalue="Node.js.After3.js" />
+        <item itemvalue="Node.js.Before1.js" />
+        <item itemvalue="Node.js.After_Review.js (1)" />
+        <item itemvalue="Node.js.Before_Review.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +231,13 @@
       <workItem from="1602860735869" duration="1221000" />
       <workItem from="1603000049706" duration="8387000" />
       <workItem from="1603094651826" duration="3647000" />
-      <workItem from="1603449077491" duration="8267000" />
+      <workItem from="1603449077491" duration="9097000" />
+      <workItem from="1603702718203" duration="14000" />
+      <workItem from="1603703471047" duration="33000" />
+      <workItem from="1603705842551" duration="121000" />
+      <workItem from="1603705992278" duration="458000" />
+      <workItem from="1603706743572" duration="68000" />
+      <workItem from="1603707854721" duration="6331000" />
     </task>
     <servers />
   </component>
@@ -257,70 +265,70 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603100909231" />
-    <state width="1807" height="373" key="GridCell.Tab.0.bottom" timestamp="1603474523527">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1603711339847">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="373" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603474523527" />
-    <state width="1807" height="373" key="GridCell.Tab.0.center" timestamp="1603474523526">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339847" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1603711339847">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="373" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603474523526" />
-    <state width="1807" height="373" key="GridCell.Tab.0.left" timestamp="1603474523526">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339847" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1603711339846">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="373" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603474523526" />
-    <state width="1807" height="373" key="GridCell.Tab.0.right" timestamp="1603474523527">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339846" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1603711339847">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="373" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603474523527" />
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1603457526144">
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339847" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1603475694125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526144" />
-    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1603457526143">
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694125" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1603475694124">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526143" />
-    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1603457526143">
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694124" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1603475694123">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526143" />
-    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1603457526143">
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694123" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1603475694125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526143" />
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1603457526144">
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694125" />
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1603475694126">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526144" />
-    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1603457526144">
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
+    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1603475694126">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526144" />
-    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1603457526144">
+    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
+    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1603475694125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526144" />
-    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1603457526144">
+    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694125" />
+    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1603475694126">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526144" />
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1603457526145">
+    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1603475694127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526145" />
-    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1603457526145">
+    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694127" />
+    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1603475694127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526145" />
-    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1603457526145">
+    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694127" />
+    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1603475694126">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526145" />
-    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1603457526145">
+    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
+    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1603475694127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603457526145" />
+    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694127" />
     <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1602669453972">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

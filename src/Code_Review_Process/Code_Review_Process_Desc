@@ -1,5 +1,28 @@
+github link -https://github.com/codebasics/py/blob/master/TechTopics/CodingBestPractices/coding_best_practices.md
+
+
 Guidelines to follow
 
 1. Use right datastructures for the given problem
 
 2. write compact code
+
+3. avoid creating unnecessary variables
+
+4. avoid abbrevations as much as you can
+
+5. descriptive function and variable names over code comments
+
+6. don't be too clever, keep it simple
+
+7. too much nested code kills code readability
+
+8. consistent coding style and naming convention
+
+9. organize code in multiple folders, files suitable to their purpose
+
+10. using object oriented programming
+
+11. use design patterns and architecture patterns
+
+12.
