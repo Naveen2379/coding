@@ -20,16 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/After_Review.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/Before_Review.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can/After1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can/Before1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/keep_it_simple/After2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/keep_it_simple/Before2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/After3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/Before3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/apply_bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/array_concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/name_age_sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/prototype_string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/scope_loop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/window_console_scope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/aync_await_mdn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Code_Review_Process/Code_Review_Process_Desc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code_Review_Process/Code_Review_Process_Desc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/AsyncAwaitSetTimeOut.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/AsyncAwaitSetTimeOut.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,40 +79,42 @@
       <recent name="$PROJECT_DIR$/src/Logical/Closures" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Before3.js">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.prototype_string.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="After3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/After3.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability">
+    <configuration name="Bind_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_3.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
       <method v="2" />
     </configuration>
-    <configuration name="After_Review.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/After_Review.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables">
+    <configuration name="array_concat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/array_concat.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
       <method v="2" />
     </configuration>
-    <configuration name="Before1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can/Before1.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/avoid_abbrevations_as_much_as_you_can">
+    <configuration name="prototype_string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/prototype_string.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
       <method v="2" />
     </configuration>
-    <configuration name="Before3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability/Before3.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/nested_code_kills_readability">
+    <configuration name="scope_loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/scope_loop.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
       <method v="2" />
     </configuration>
-    <configuration name="Before_Review.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables/Before_Review.js" working-dir="$PROJECT_DIR$/src/Code_Review_Process/Avoid_Creating_Unnecessary_Variables">
+    <configuration name="window_console_scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/window_console_scope.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Before3.js" />
-        <item itemvalue="Node.js.After3.js" />
-        <item itemvalue="Node.js.Before1.js" />
-        <item itemvalue="Node.js.After_Review.js (1)" />
-        <item itemvalue="Node.js.Before_Review.js (1)" />
+        <item itemvalue="Node.js.prototype_string.js" />
+        <item itemvalue="Node.js.window_console_scope.js" />
+        <item itemvalue="Node.js.array_concat.js" />
+        <item itemvalue="Node.js.scope_loop.js" />
+        <item itemvalue="Node.js.Bind_3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +240,8 @@
       <workItem from="1603705842551" duration="121000" />
       <workItem from="1603705992278" duration="458000" />
       <workItem from="1603706743572" duration="68000" />
-      <workItem from="1603707854721" duration="6331000" />
+      <workItem from="1603707854721" duration="11887000" />
+      <workItem from="1603788834265" duration="3882000" />
     </task>
     <servers />
   </component>
@@ -261,26 +265,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="691" y="354" width="721" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1603449388863" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603100909231">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603769710697">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603100909231" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1603711339847">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603769710697" />
+    <state width="1807" height="384" key="GridCell.Tab.0.bottom" timestamp="1603821168860">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339847" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1603711339847">
+    <state width="1807" height="384" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168860" />
+    <state width="1807" height="384" key="GridCell.Tab.0.center" timestamp="1603821168860">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339847" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1603711339846">
+    <state width="1807" height="384" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168860" />
+    <state width="1807" height="384" key="GridCell.Tab.0.left" timestamp="1603821168859">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339846" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1603711339847">
+    <state width="1807" height="384" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168859" />
+    <state width="1807" height="384" key="GridCell.Tab.0.right" timestamp="1603821168860">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603711339847" />
+    <state width="1807" height="384" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168860" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1603475694125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -337,10 +341,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600937059488" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601910290935">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1603792984453">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601910290935" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1603792984453" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
