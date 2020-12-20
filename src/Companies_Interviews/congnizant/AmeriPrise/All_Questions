@@ -1,0 +1,100 @@
+ Below are the concepts/questions & programming problems that were asked:
+
+1. Variable Scoping explanation & problem and o/p & why
+
+function myFn() {
+    var foo = 'peekaboo!';
+    bar = 'cow';
+    console.log('1', foo);
+}
+myFn();
+
+console.log('2', bar);
+console.log('3', foo);
+
+2. what is window object & difference between window.console.log & console.log?
+
+3. What are closures & lexical scoping ?
+
+4. String repeat method & write polyfill for the given problem
+
+'test'.repeat(3)
+'hello'.repeat(2);
+
+5. what are prototypes & use of them in JS?
+
+
+6. function's return statement execution flow with if,else condition, what if the below problem doesn't have else condition
+
+var fun = (n) => {
+    if(n===5) {
+        return 'Yes';
+    }
+    return 'No';
+}
+fun(5);
+
+
+
+7. solve concatenation of arrays problem in a single line to the shown o/p
+
+let array1 = [10,20];
+let array2 = [1,2,3];
+
+//o/p: [10,1,2,3,20]
+
+
+8. spread operator & example
+9. destructuring & example
+
+10. what are arrow functions & why we use them -example
+
+11. apply and bind methods -what are they & why we use them -problem
+
+
+12. o/p of the below problem & how to solve.
+
+for(var i = 0; i<5; i ++ ) {
+    console.log(i);
+        setTimeout( () => {
+            console.log(i);
+        },2000)
+}
+
+
+13. return an array by sorting the below array using name and age<20  -Array of objects problem
+
+var pets = [
+    {name: 'john', age: 21},
+    {name: 'tom', age: 19},
+    {name: 'meshak', age: 25},
+    {name: 'sam', age: 9}
+]
+
+
+
+14. return a new object by making the values into half of the original
+
+let doublePrices = {
+    banana: 2,
+    orange: 4,
+    meat: 8
+};
+create a function which should return an object similar to the above object but values being half of the original
+
+o/p: {
+    banana: 1,
+    orange: 2,
+    meat: 4
+}
+
+
+15. React Component Life Cycle Methods & explain them?
+
+16. Did you have hands-on experience on Hooks?
+
+17. Hooks that you know ?
+
+18. Did you have the hands-on experience on TypeScript?
+
+19. Which React version you are familiar with?

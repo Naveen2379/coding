@@ -1,0 +1,59 @@
+				Composition in React
+In React, composition is a natural pattern of the component model.
+React has a powerful composition model.
+Use composition instead of inheritance to reuse code between components.
+
+Reducing Component Nesting With Composition
+    The props.children property allows you to inject components inside other components.
+
+A HOC is another pattern of the React composition model
+	HOC -a function that takes in a component and creates a new, 'enhanced' component
+	It can be used when we have multiple components that may share some properties like functionality or data.
+
+Create specialized version of a component
+    Use an outer component to expand and specialize a more generic component.
+    const Button = props => {
+        return <button>{props.text}</button>
+    }
+    const SubmitButton = () => {
+      return <Button text="Submit" />
+    }
+    const LoginButton = () => {
+        return <Button text="Login" />
+    }
+
+Pass methods as props
+    A component can focus on tracking a click event for ex, and what actually happens when the click event happens is up to the container component
+    const Button = props => {
+      return <button onClick={props.onClickHandler}>{props.text}</button>
+    }
+
+    const LoginButton = props => {
+      return <Button text="Login" onClickHandler={props.onClickHandler} />
+    }
+
+    const Container = () => {
+      const onClickHandler = () => {
+        alert('clicked')
+      }
+
+      return <LoginButton onClickHandler={onClickHandler} />
+    }
+
+Using Children
+    The props.children property allows you to inject components inside other components.
+
+    The component needs to output props.children in its JSX.
+    const Sidebar = props => {
+        return <div>{props.children}</div>
+    }
+    and you embed more components into it in a transparent way
+    <Sidebar>
+        <Link title="First Link" />
+        <Link title="Second Link" />
+    </Sidebar>
+
+
+                    INHERITANCE
+When a child class derives properties from it's parent class,we call it inheritance.
+

@@ -68,8 +68,8 @@ function foo(x) {
     return x;
 }
 let x = 'string';
-console.log(foo(x));
-console.log(x);
+console.log(foo(x));        //new string
+console.log(x);             //string
 
 // Using a string method doesn't mutate the string
 let str = 'Naveen';

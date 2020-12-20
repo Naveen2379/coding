@@ -20,17 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/apply_bind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/array_concat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/name_age_sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/prototype_string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/scope_loop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/window_console_scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/aync_await_mdn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Akshay Saini/Function_This_setTimeOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Akshay Saini/Object_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Akshay Saini/polyfill_for_bind/Object_Bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Akshay Saini/polyfill_for_bind/Object_Bind_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/rest_spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/All_Questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/making_half_values_object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/return_statement_if_else.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_InterviewPreparationKit/NewYear_Choas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/concat_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/remove_duplicates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/array_object_remove_duplicate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects/Nestd_Array_Cloning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects/Objects_Array_Cloning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable/const_arr_obj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/join_mdn/join_array_like_objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/setTimeOut-setInterval/setTimeOut_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/var-let-const/Scope_Let.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Palindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MDN/var/var_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MDN/var/var_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MDN/var/var_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mutable_Immutable/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition/Composition_Desc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/AsyncAwaitSetTimeOut.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/async-await/AsyncAwaitSetTimeOut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/name_age_sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/name_age_sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/prototype_string_n_times.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/prototype_string_n_times.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/scope_loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/scope_loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/js_objects_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/Constructor_Object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable/Mutable_Immutable.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +83,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -72,14 +94,14 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Code_Review_Process" />
-      <recent name="$PROJECT_DIR$/src/Code_Review_Process/using_right_datastructure" />
-      <recent name="$PROJECT_DIR$/src/Companies_Interviews/Melvault" />
-      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/using-for-in" />
-      <recent name="$PROJECT_DIR$/src/Logical/Closures" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts" />
+      <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects" />
+      <recent name="$PROJECT_DIR$/src/MDN/var" />
+      <recent name="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.prototype_string.js">
+  <component name="RunManager" selected="Node.js.array_object_remove_duplicate.js">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -93,28 +115,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bind_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind/Bind_3.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/this_call_apply_bind">
+    <configuration name="Mutable_Immutable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable/Mutable_Immutable.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts">
       <method v="2" />
     </configuration>
-    <configuration name="array_concat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/array_concat.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
+    <configuration name="array_object_remove_duplicate.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/array_object_remove_duplicate.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
       <method v="2" />
     </configuration>
-    <configuration name="prototype_string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/prototype_string.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
+    <configuration name="concat_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/concat_array.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
       <method v="2" />
     </configuration>
-    <configuration name="scope_loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/scope_loop.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
+    <configuration name="copy_object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
       <method v="2" />
     </configuration>
-    <configuration name="window_console_scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise/window_console_scope.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/congnizant/AmeriPrise">
+    <configuration name="remove_duplicates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/remove_duplicates.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.prototype_string.js" />
-        <item itemvalue="Node.js.window_console_scope.js" />
-        <item itemvalue="Node.js.array_concat.js" />
-        <item itemvalue="Node.js.scope_loop.js" />
-        <item itemvalue="Node.js.Bind_3.js" />
+        <item itemvalue="Node.js.array_object_remove_duplicate.js" />
+        <item itemvalue="Node.js.remove_duplicates.js" />
+        <item itemvalue="Node.js.concat_array.js" />
+        <item itemvalue="Node.js.Mutable_Immutable.js" />
+        <item itemvalue="Node.js.copy_object.js" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +263,14 @@
       <workItem from="1603705992278" duration="458000" />
       <workItem from="1603706743572" duration="68000" />
       <workItem from="1603707854721" duration="11887000" />
-      <workItem from="1603788834265" duration="3882000" />
+      <workItem from="1603788834265" duration="10066000" />
+      <workItem from="1605525048668" duration="644000" />
+      <workItem from="1607803716607" duration="15329000" />
+      <workItem from="1608189512136" duration="35000" />
+      <workItem from="1608192023288" duration="1491000" />
+      <workItem from="1608216709879" duration="14405000" />
+      <workItem from="1608376740706" duration="1951000" />
+      <workItem from="1608384983298" duration="20635000" />
     </task>
     <servers />
   </component>
@@ -259,92 +288,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="691" y="354" width="721" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603449388863">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="691" y="354" width="721" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1603449388863" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603769710697">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603769710697" />
-    <state width="1807" height="384" key="GridCell.Tab.0.bottom" timestamp="1603821168860">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="384" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168860" />
-    <state width="1807" height="384" key="GridCell.Tab.0.center" timestamp="1603821168860">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="384" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168860" />
-    <state width="1807" height="384" key="GridCell.Tab.0.left" timestamp="1603821168859">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="384" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168859" />
-    <state width="1807" height="384" key="GridCell.Tab.0.right" timestamp="1603821168860">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="384" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603821168860" />
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1603475694125">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694125" />
-    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1603475694124">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694124" />
-    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1603475694123">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694123" />
-    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1603475694125">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694125" />
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom" timestamp="1603475694126">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
-    <state width="1807" height="344" key="GridCell.Tab.2.center" timestamp="1603475694126">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
-    <state width="1807" height="344" key="GridCell.Tab.2.left" timestamp="1603475694125">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694125" />
-    <state width="1807" height="344" key="GridCell.Tab.2.right" timestamp="1603475694126">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom" timestamp="1603475694127">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694127" />
-    <state width="1807" height="344" key="GridCell.Tab.3.center" timestamp="1603475694127">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694127" />
-    <state width="1807" height="344" key="GridCell.Tab.3.left" timestamp="1603475694126">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694126" />
-    <state width="1807" height="344" key="GridCell.Tab.3.right" timestamp="1603475694127">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1807" height="344" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603475694127" />
-    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1602669453972">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1602669453972" />
-    <state x="657" y="253" key="run.anything.popup" timestamp="1600937059488">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600937059488" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1603792984453">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1603792984453" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
