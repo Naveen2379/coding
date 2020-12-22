@@ -20,11 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/Min_Max_Diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_manipulation_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/array_flat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/deep_clone_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/flatMap_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/shallow_clone_array_showcase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_manipulation_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_RE_manipulation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ES6/CreatingObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/concat_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/concat_array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/remove_duplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/remove_duplicates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects/Nestd_Array_Cloning.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +79,7 @@
       <recent name="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.try_catch_js.js">
+  <component name="RunManager" selected="Node.js.DifferenceBtw.js">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -87,28 +93,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Max_Diff.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/Min_Max_Diff.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2">
+    <configuration name="DifferenceBtw.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" working-dir="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="array_object_remove_duplicate.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/array_object_remove_duplicate.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+    <configuration name="array_flat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/array_flat.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
       <method v="2" />
     </configuration>
-    <configuration name="copy_object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copy_object.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+    <configuration name="deep_clone_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/deep_clone_array.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
       <method v="2" />
     </configuration>
-    <configuration name="string_manipulation_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_manipulation_1.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2">
+    <configuration name="flatMap_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/flatMap_array.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
       <method v="2" />
     </configuration>
-    <configuration name="try_catch_js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2">
+    <configuration name="object_and_constructor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.try_catch_js.js" />
-        <item itemvalue="Node.js.string_manipulation_1.js" />
-        <item itemvalue="Node.js.copy_object.js" />
-        <item itemvalue="Node.js.Min_Max_Diff.js" />
-        <item itemvalue="Node.js.array_object_remove_duplicate.js" />
+        <item itemvalue="Node.js.DifferenceBtw.js" />
+        <item itemvalue="Node.js.object_and_constructor.js" />
+        <item itemvalue="Node.js.flatMap_array.js" />
+        <item itemvalue="Node.js.deep_clone_array.js" />
+        <item itemvalue="Node.js.array_flat.js" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +250,7 @@
       <workItem from="1608376740706" duration="1951000" />
       <workItem from="1608384983298" duration="20644000" />
       <workItem from="1608529174658" duration="5987000" />
-      <workItem from="1608581346228" duration="334000" />
+      <workItem from="1608581346228" duration="9944000" />
     </task>
     <servers />
   </component>
@@ -450,65 +456,6 @@
           <url>file://$PROJECT_DIR$/src/Companies_Interviews/LastKidWithPositionGiven.js</url>
           <line>1</line>
           <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>22</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>21</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>19</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>8</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>4</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>2</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>10</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>12</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js</url>
-          <line>13</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

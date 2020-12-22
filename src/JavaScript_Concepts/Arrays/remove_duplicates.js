@@ -33,7 +33,7 @@ Array.prototype.removeDuplicates = function() {
     console.log(this);
     const finArr6 = [];
     for(let i=0;i<this.length;i++) {
-        var current = this[i];
+        let current = this[i];
         if(finArr6.indexOf(current)<0) {
             finArr6.push(current);
         }

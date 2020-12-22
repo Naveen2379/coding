@@ -11,3 +11,5 @@ console.log(arr3);          //[ 0, 1, 2, 3, 4, 5 ]
 /* with spread syntax*/
 let arr4 = [...arr1, ...arr2];
 console.log(arr4);          //[ 0, 1, 2, 3, 4, 5 ]
+
+
