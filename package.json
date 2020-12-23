@@ -6,6 +6,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "cross-fetch": "^3.0.6",
     "jest": "^24.9.0",
     "lodash": "^4.17.15"
   }

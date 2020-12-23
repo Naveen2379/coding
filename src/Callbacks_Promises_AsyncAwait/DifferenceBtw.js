@@ -64,11 +64,17 @@ function printAll_Promise() {
                 * */
 async function printAll_Await() {
     await printFun_Promise('A');
+    console.log('after A');
     await printFun_Promise('B');
+    console.log('after B');
     await printFun_Promise('C');
+    console.log('after C');
     await printFun_Promise('D');
+    console.log('after D');
     await printFun_Promise('E');
+    console.log('after E');
     await printFun_Promise('F');
+    console.log('after F');
 }
 printAll_Await();
 

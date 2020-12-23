@@ -20,17 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/array_flat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/deep_clone_array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/flatMap_array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/shallow_clone_array_showcase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/async_await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/async_await_iife_self_invoked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/async_without_with_await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/empty_an_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/self_invoking_async_fetch_api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_manipulation_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_RE_manipulation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ES6/CreatingObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/concat_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/concat_array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/remove_duplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/remove_duplicates.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects/Nestd_Array_Cloning.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/Min_Max_Diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/Min_Max_Diff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/rest_spread.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/rest_spread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/string_RE_manipulation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/string_RE_manipulation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2/try_catch_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/try_catch_js.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,49 +76,47 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects" />
       <recent name="$PROJECT_DIR$/src/MDN/var" />
-      <recent name="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/L2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.DifferenceBtw.js">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.self_invoking_async_fetch_api.js">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferenceBtw.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" working-dir="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait">
+    <configuration name="async_await_iife_self_invoked.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/async_await_iife_self_invoked.js" working-dir="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="array_flat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/array_flat.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
+    <configuration name="async_await.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/async_await.js" working-dir="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="deep_clone_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/deep_clone_array.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
+    <configuration name="async_without_with_await.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/async_without_with_await.js" working-dir="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="flatMap_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays/flatMap_array.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/Arrays">
+    <configuration name="empty_an_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/empty_an_array.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
       <method v="2" />
     </configuration>
-    <configuration name="object_and_constructor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/object_and_constructor.js" working-dir="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects">
+    <configuration name="self_invoking_async_fetch_api.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/self_invoking_async_fetch_api.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.DifferenceBtw.js" />
-        <item itemvalue="Node.js.object_and_constructor.js" />
-        <item itemvalue="Node.js.flatMap_array.js" />
-        <item itemvalue="Node.js.deep_clone_array.js" />
-        <item itemvalue="Node.js.array_flat.js" />
+        <item itemvalue="Node.js.self_invoking_async_fetch_api.js" />
+        <item itemvalue="Node.js.empty_an_array.js" />
+        <item itemvalue="Node.js.async_await_iife_self_invoked.js" />
+        <item itemvalue="Node.js.async_without_with_await.js" />
+        <item itemvalue="Node.js.async_await.js" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +252,8 @@
       <workItem from="1608376740706" duration="1951000" />
       <workItem from="1608384983298" duration="20644000" />
       <workItem from="1608529174658" duration="5987000" />
-      <workItem from="1608581346228" duration="9944000" />
+      <workItem from="1608581346228" duration="11303000" />
+      <workItem from="1608638735625" duration="12865000" />
     </task>
     <servers />
   </component>
