@@ -6,6 +6,7 @@ const arr = [10, 12, 15, 21];
     }, 3000);
 }*/
 /*
+after 3 seconds....
 index 4, element undefined
 index 4, element undefined
 index 4, element undefined

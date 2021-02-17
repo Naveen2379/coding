@@ -1,0 +1,29 @@
+difference functional & class components
+
+const obj1 = { name: “Joseph” }
+const obj2 = { name: “Joseph” }
+const obj3 = obj1;
+
+
+obj1 == obj2;		=>  false
+obj1 === obj2;	=>  false
+obj1 === obj3;	=>  true
+
+Method to check if two strings are anagram?
+
+Eg. Silent === Listen
+
+str1 = Silentt
+str2 = Listent
+
+arr = [ {s: 1}, {l:1} ];
+
+
+if(str1.length === str2.length) {
+	for (i=0; i< str.length; i++) {
+		if(!str1[i].includes(str2)) {
+  		return false;
+  	}
+  	return true; 
+	}
+}

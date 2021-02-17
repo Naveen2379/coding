@@ -28,12 +28,10 @@ for(let i=0; i<3; i++) {
 */
 /* the numbers 0, 1 and 2 console after 1st, 2nd, and 3rd second */
 
-/*
 var i;
 for(i=0;i<3;i++) {
     setTimeout( () => {
         console.log(i);
     }, 1000+(i*1000))
 }
-*/
 /* the number 3 consoles 3 times after 1st, 2nd, and 3rd second */

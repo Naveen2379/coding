@@ -1,0 +1,2 @@
+JS has a concurrency model based on event loop, which is responsible for executing the code, collecting and processing events, and
+executing queued sub-tasks.

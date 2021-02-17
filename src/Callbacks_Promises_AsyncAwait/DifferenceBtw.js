@@ -20,7 +20,7 @@ function printFun_Callback(str, callback) {
     setTimeout(() => {
         console.log(str);
         callback();
-    }, Math.floor(Math.random()*100)+1);
+    }, Math.floor(Math.random()*1000)+1);
 }
 
 function printAll_Callback() {
@@ -55,7 +55,7 @@ function printAll_Promise() {
         .then( () => printFun_Promise('D'))
             .catch(err => console.log(err))
 }
-//printAll_Promise(); // A B C D      --> in order
+printAll_Promise(); // A B C D      --> prints in the order
 
 
 
@@ -76,5 +76,5 @@ async function printAll_Await() {
     await printFun_Promise('F');
     console.log('after F');
 }
-printAll_Await();
+//printAll_Await();
 

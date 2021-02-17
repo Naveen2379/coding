@@ -1,0 +1,15 @@
+Closure	-the combination of a function bundled together with references to its surrounding state(the lexical environment).
+A closure gives you access to an outer function's scope from an inner function.
+In JS, closures are created every time a function is created, at function creation time.
+
+The inner function will have access to the variables in the outer function scope, even after the outer function has returned.
+
+            Uses
+data privacy    -the enclosed variables are only in scope within the containing(outer) function. You can't get the data from an outside scope
+                except through the object's privileged methods.
+
+used in web -much of the code written in JS, is event-based. define some behavior, then attach it to an event that is triggered by the
+user(such as a click or a keypress). The code is attached as a callback (a single function that is executed in response to the event).
+    like adding buttons to a page to adjust the text size
+
+private counters

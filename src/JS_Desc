@@ -1,0 +1,36 @@
+Javascript runtime refers to where your javascript code is executed when you run it. That said, javascript can be executed on google chrome,
+in which case your javascript engine is v8, if on mozilla — it is spidermonkey, if IE — then its chakra,
+if Safari — it’s nitro and if on node, again its v8.
+
+
+                        Terminology
+CONCURRENCY & PARALLELISM
+Concurrency means executing multiple tasks at the same time but not simultaneously. E.g. two tasks works in overlapping time periods.
+
+Parallelism means performing two or more tasks simultaneously, e.g. performing multiple calculations at the same time.
+
+THREADS & PROCESSES
+Threads are a sequence of code execution which can be executed independently of one another.
+
+Process is an instance of a running program. A program can have multiple processes.
+
+SYNCHRONOUS & ASYNCHRONOUS
+In synchronous programming, tasks are executed one after another. Each task waits for any previous task to be completed and is executed only then.
+
+In asynchronous programming, when one task is executed, you can switch to a different task without waiting for the previous one to be completed.
+
+SYNCHRONOUS AND ASYNCHRONOUS IN A SINGLE AND MULTI-THREADED ENVIRONMENT
+Synchronous with a single thread: Tasks are executed one after another. Each task waits for its previous task to get executed.
+
+Synchronous with multiple threads: Tasks are executed in different threads but wait for any other executing tasks on any other thread.
+
+Asynchronous with a single thread: Tasks start being executed without waiting for a different task to finish. At a given time, only a single task
+can be executed.
+
+Asynchronous with multiple threads: Tasks get executed in different threads without waiting for other tasks to be completed and finish their executions
+independently.
+
+JAVASCRIPT CLASSIFICATION
+If we consider how JS engines works under the hood, we can classify JS as an asynchronous and single-threaded interpreted language.
+The word "interpreted" is very important because it means that the language will always be runtime-dependent and never as fast as
+compiled languages with built-in multi-threading.

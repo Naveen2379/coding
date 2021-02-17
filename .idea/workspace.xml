@@ -20,13 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef14e2f-a189-4050-bdd8-664dfe4778ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/window_console.log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedIn_JS/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedIn_JS/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stackoverflow/Compare_Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AngelList_Assessment/8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/Questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/anagram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/array_empty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/object_equality.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function_Currying/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JS_Desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PassByValue_PassByReference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency model &amp; event loop/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoisting/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoisting/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackoverflow/Compare_Arrays_Traverse.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/function_scope_iife.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/iife_var_scope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Callbacks_Promises_AsyncAwait/DifferenceBtw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Functions_Closures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/Using_Closure_To_Create_Private_Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logical/Closures_Questions/forLoop_setTimeOut_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MDN/var/var_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoisting/var/var_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MDN/var/var_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoisting/var/var_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MDN/var/var_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoisting/var/var_3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +67,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1XbV4qLh1gmhNUXFPwb3lIEuw1m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,7 +88,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-cognizant-udemy-course" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -68,14 +99,14 @@
       <recent name="$PROJECT_DIR$/src/GeeksforGeeks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hoisting" />
       <recent name="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/Mutable_Immutable" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts" />
       <recent name="$PROJECT_DIR$/src/JavaScript_Concepts/JS_Objects/copying-cloning-objects" />
-      <recent name="$PROJECT_DIR$/src/MDN/var" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Compare_Arrays.js">
+  <component name="RunManager" selected="Node.js.anagram.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -87,28 +118,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/LinkedIn_JS/1.js" working-dir="$PROJECT_DIR$/src/LinkedIn_JS">
+    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Function_Currying/1.js" working-dir="$PROJECT_DIR$/src/Function_Currying">
       <method v="2" />
     </configuration>
-    <configuration name="2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/LinkedIn_JS/2.js" working-dir="$PROJECT_DIR$/src/LinkedIn_JS">
+    <configuration name="7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/AngelList_Assessment/7.js" working-dir="$PROJECT_DIR$/src/AngelList_Assessment">
       <method v="2" />
     </configuration>
-    <configuration name="Compare_Arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/stackoverflow/Compare_Arrays.js" working-dir="$PROJECT_DIR$/src/stackoverflow">
+    <configuration name="anagram.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/anagram.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
       <method v="2" />
     </configuration>
-    <configuration name="self_invoking_async_fetch_api.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/self_invoking_async_fetch_api.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
+    <configuration name="array_empty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/array_empty.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
       <method v="2" />
     </configuration>
-    <configuration name="window_console.log.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/window_console.log.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
+    <configuration name="object_equality.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise/object_equality.js" working-dir="$PROJECT_DIR$/src/Companies_Interviews/AmeriPrise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Compare_Arrays.js" />
-        <item itemvalue="Node.js.window_console.log.js" />
-        <item itemvalue="Node.js.2.js" />
+        <item itemvalue="Node.js.anagram.js" />
+        <item itemvalue="Node.js.array_empty.js" />
+        <item itemvalue="Node.js.object_equality.js" />
         <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Node.js.self_invoking_async_fetch_api.js" />
+        <item itemvalue="Node.js.7.js" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +280,10 @@
       <workItem from="1610529142512" duration="928000" />
       <workItem from="1610946978737" duration="2037000" />
       <workItem from="1611034026306" duration="694000" />
-      <workItem from="1612896471548" duration="878000" />
+      <workItem from="1612896471548" duration="1264000" />
+      <workItem from="1612950133824" duration="1292000" />
+      <workItem from="1613036720892" duration="46000" />
+      <workItem from="1613065077036" duration="38655000" />
     </task>
     <servers />
   </component>
