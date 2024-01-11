@@ -10,12 +10,12 @@ function debounce(fn, delay) {
     return function (inputValue) {
         console.log(inputValue);
         console.log('inside returned function');
-        //clearTimeout(timer);
         console.log(timer);
         clearTimeout(timer);
         timer = setTimeout( () => {
-            //let context = this,
-                //args = arguments;
+            let context = this,
+            args = arguments;
+            console.log('ags ', args)
             console.log('inside timeOut');
             getData.apply();
         }, delay);

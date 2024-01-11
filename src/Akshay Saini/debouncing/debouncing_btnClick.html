@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Naveen Kairamkonda</title>
+</head>
+<body>
+    <script>
+        function debounce(func, timeout=2000) {
+            console.log('inside debounce...')
+            let timer;
+            return (...args) => {
+                console.log('inside return...', args)
+                console.log('this ', this)
+                clearTimeout(timer)
+
+                timer = setTimeout(() => {
+                    func.apply(this, args)
+                }, timeout)
+            }
+        }
+
+        function fetchData(word) {
+            console.log('going to fetch the data here... '+word)
+        }
+        const getData = debounce(() => fetchData('new'));
+        console.log(getData)
+    </script>
+
+
+<button onclick="getData()">Click</button>
+
+</body>
+</html>
